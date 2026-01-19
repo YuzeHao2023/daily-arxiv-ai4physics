@@ -260,8 +260,8 @@ def json_to_md(filename,md_filename,
         #     f.write(f"[![Issues][issues-shield]][issues-url]\n\n")
 
         if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>ai4bio-ARXIV-DAILY"
-            #         "</ins><br>Automatically Update ai4bio Papers Daily</h1></p>\n"))
+            #f.write(("<p align="center"><h1 align="center"><br><ins>-ARXIV-DAILY"
+            #         "</ins><br>Automatically Update  Papers Daily</h1></p>\n"))
             f.write("## Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
@@ -315,21 +315,21 @@ def json_to_md(filename,md_filename,
         if show_badge == True:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Vincentqyw/ai4bio-arxiv-daily.svg?style=for-the-badge\n"))
+                     f"contributors/Vincentqyw/-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
-                     f"ai4bio-arxiv-daily/graphs/contributors\n"))
+                     f"ai4physics-arxiv-daily/graphs/contributors\n"))
             f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
-                     f"ai4bio-arxiv-daily.svg?style=for-the-badge\n"))
+                     f"ai4physics-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[forks-url]: https://github.com/Vincentqyw/"
-                     f"ai4bio-arxiv-daily/network/members\n"))
+                     f"ai4physics-arxiv-daily/network/members\n"))
             f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
-                     f"ai4bio-arxiv-daily.svg?style=for-the-badge\n"))
+                     f"ai4physics-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[stars-url]: https://github.com/Vincentqyw/"
-                     f"ai4bio-arxiv-daily/stargazers\n"))
+                     f"ai4physics-arxiv-daily/stargazers\n"))
             f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
-                     f"ai4bio-arxiv-daily.svg?style=for-the-badge\n"))
+                     f"ai4physics-arxiv-daily.svg?style=for-the-badge\n"))
             f.write((f"[issues-url]: https://github.com/Vincentqyw/"
-                     f"ai4bio-arxiv-daily/issues\n\n"))
+                     f"ai4physics-arxiv-daily/issues\n\n"))
 
     logging.info(f"{task} finished")
 
