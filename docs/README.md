@@ -1,8 +1,8 @@
-# AI4Bio ArXiv Daily - Usage Instructions
+# AI4Physics ArXiv Daily - Usage Instructions
 
 ## Overview
 
-AI4Bio ArXiv Daily automatically fetches the latest papers from arXiv related to AI for Biology (AI4Bio) topics and organizes them by category.
+AI4Physics ArXiv Daily automatically fetches the latest papers from arXiv related to AI for Biology (AI4Physics) topics and organizes them by category.
 
 ## Usage
 
