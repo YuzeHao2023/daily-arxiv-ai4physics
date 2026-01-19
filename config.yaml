@@ -1,0 +1,46 @@
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "YuzeHao2023"
+repo_name: "daily-arxiv-ai4bio"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 10
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/ai4bio-arxiv-daily.json'
+json_gitpage_path: './docs/ai4bio-arxiv-daily-web.json'
+json_wechat_path: './docs/ai4bio-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# keywords to search
+keywords:
+    "Protein Structure & Engineering":
+        filters: ["Protein Structure Prediction", "Protein Design", "AlphaFold", "RoseTTAFold", "Protein Folding", "Inverse Folding", "Protein Language Model", "pLM", "ESM", "Site-specific Mutagenesis", "Protein Function Prediction"]
+
+    "Antibody, Antigen & Vaccine":
+        filters: ["Antibody Design", "Antigen-Antibody Interaction", "Epitope Prediction", "Vaccine Design", "Therapeutic Antibodies", "CDR Generation", "Humanness Scoring", "Immunogenicity"]
+
+    "Genomics & Regulatory Sequence":
+        filters: ["Genomics", "DNA Sequence Modeling", "RNA Modeling", "Genomic Language Models", "Variant Effect Prediction", "CRISPR Guide Design", "Epigenomics", "Splice Site Prediction", "Non-coding RNA", "Motif Discovery"]
+
+    "Single-cell & Spatial Multi-omics":
+        filters: ["Single-cell RNA-seq", "scRNA-seq", "Spatial Transcriptomics", "Spatial Omics", "Multi-omics Integration", "Cell Type Annotation", "Trajectory Inference", "Cellular Heterogeneity", "Batch Effect Correction"]
+
+    "Drug Discovery & Interaction":
+        filters: ["Drug-Target Interaction", "DTI", "Compound-Protein Interaction", "CPI", "Protein-Protein Interaction", "PPI", "Molecular Docking", "Binding Affinity Prediction", "Virtual Screening", "De Novo Drug Design", "ADMET", "Lead Optimization"]
+
+    "Biological Generative & Foundation Models":
+        filters: ["Biological Foundation Models", "Generative Biology", "Diffusion Models for Proteins", "Flow Matching", "Biological Sequence Generation", "Biological Representation Learning", "Cross-Modal Learning", "Text-to-Biology", "Self-Supervised Learning"]
+
+    "Systems Biology & Knowledge Graphs":
+        filters: ["Gene Regulatory Networks", "GRN", "Biological Networks", "Systems Biology", "Graph Neural Networks for Biology", "Biomedical Knowledge Graphs", "BioNLP", "Biomedical Text Mining", "Pathway Analysis", "Ontology"]
+
+    "Medical Imaging & Evolution":
+        filters: ["Medical Imaging", "Microscopy", "Image Segmentation", "Histopathology", "Phylogenetics", "Evolutionary Dynamics", "Ancestral Sequence Reconstruction", "Coevolutionary Analysis", "Epidemiology"]
