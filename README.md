@@ -1,4 +1,4 @@
-## Updated on 2026.01.19
+## Updated on 2026.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,7 +31,7 @@
 |**2026-01-16**|**SPIKE: Sparse Koopman Regularization for Physics-Informed Neural Networks**|Jose Marie Antonio Miñoza et.al.|[2601.10282](http://arxiv.org/abs/2601.10282)|null|
 |**2026-01-15**|**Introduction to optimization methods for training SciML models**|Alena Kopaničáková et.al.|[2601.10222](http://arxiv.org/abs/2601.10222)|null|
 
-<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Dynamical Systems & PDE Learning
 
@@ -48,7 +48,7 @@
 |**2026-01-16**|**Experimental study of coupled quantum billiards with integrable and chaotic classical dynamics and test of a special Rosenzweig-Porter model**|Xiaodong Zhang et.al.|[2601.11212](http://arxiv.org/abs/2601.11212)|null|
 |**2026-01-16**|**Solution Concepts and Existence Results for Hybrid Systems with Continuous-time Inputs**|W. P. M. H. Heemels et.al.|[2601.11205](http://arxiv.org/abs/2601.11205)|null|
 
-<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Quantum Physics & Information
 
@@ -65,7 +65,7 @@
 |**2026-01-15**|**H-EFT-VA: An Effective-Field-Theory Variational Ansatz with Provable Barren Plateau Avoidance**|Eyad I. B Hamid et.al.|[2601.10479](http://arxiv.org/abs/2601.10479)|null|
 |**2026-01-15**|**Erasure conversion for singlet-triplet spin qubits enables high-performance shuttling-based quantum error correction**|Adam Siegel et.al.|[2601.10461](http://arxiv.org/abs/2601.10461)|null|
 
-<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Materials Science & Condensed Matter
 
@@ -82,7 +82,7 @@
 |**2026-01-16**|**Nanoscale wireframe SQUID on a cantilever by corner lithography**|Thijs J. Roskamp et.al.|[2601.11331](http://arxiv.org/abs/2601.11331)|null|
 |**2026-01-16**|**Growth of Large Crystals of Janus Phase RhSeCl Using Self-Selecting Vapour Growth**|Anastasiia Lukovkina et.al.|[2601.11319](http://arxiv.org/abs/2601.11319)|null|
 
-<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Fluid Dynamics & Plasma Physics
 
@@ -99,7 +99,7 @@
 |**2026-01-16**|**More Human or More AI? Visualizing Human-AI Collaboration Disclosures in Journalistic News Production**|Amber Kusters et.al.|[2601.11072](http://arxiv.org/abs/2601.11072)|null|
 |**2026-01-16**|**Study of circular cross-section plasmas in HL-2A tokamak: MHD equilibrium, stability and operational \b{eta} limit**|SHEN Yong et.al.|[2601.11014](http://arxiv.org/abs/2601.11014)|null|
 
-<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Particle & High Energy Physics
 
@@ -116,7 +116,7 @@
 |**2026-01-16**|**Light Dark Matter Search with 7.8 Tonne-Year of Ionization-Only Data in XENONnT**|E. Aprile et.al.|[2601.11296](http://arxiv.org/abs/2601.11296)|null|
 |**2026-01-16**|**Measurements of electroweak penguin and lepton-flavor violating B decays to final states with missing energy at Belle and Belle II**|Gaetano de Marino et.al.|[2601.11279](http://arxiv.org/abs/2601.11279)|null|
 
-<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Astrophysics & Cosmology
 
@@ -133,7 +133,7 @@
 |**2026-01-16**|**Pseudo Little Red Dot: an Active Black Hole Embedded in a Dense and Dusty, Metal-Poor Starburst Galaxy at z=5.96**|Karina I. Caputi et.al.|[2601.11466](http://arxiv.org/abs/2601.11466)|null|
 |**2026-01-16**|**Five Years of Mini-EUSO Observations from the ISS: Summary of Key Results**|Matteo Battisti et.al.|[2601.11458](http://arxiv.org/abs/2601.11458)|null|
 
-<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Climate, Weather & Geophysics
 
@@ -150,7 +150,7 @@
 |**2026-01-14**|**Solar Energetic Proton Events Observed by the High Energy Telescopes on the STEREO Spacecraft or at the Earth During the First Solar Orbit of STEREO A (2006 to 2023)**|Ian G. Richardson et.al.|[2601.09630](http://arxiv.org/abs/2601.09630)|null|
 |**2026-01-14**|**Searth Transformer: A Transformer Architecture Incorporating Earth's Geospheric Physical Priors for Global Mid-Range Weather Forecasting**|Tianye Li et.al.|[2601.09467](http://arxiv.org/abs/2601.09467)|null|
 
-<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 ## Generative Models & Discovery
 
@@ -167,7 +167,7 @@
 |**2026-01-16**|**Adaptive Randomized Extended Bregman-Kaczmarz Method for Combined Optimization Problems**|Zeyu Dong et.al.|[2601.11157](http://arxiv.org/abs/2601.11157)|null|
 |**2026-01-16**|**An efficient solver based on low-rank approximation and Neumann matrix series for unsteady diffusion-type partial differential equations with random coefficients**|Yujun Zhu et.al.|[2601.11152](http://arxiv.org/abs/2601.11152)|null|
 
-<p align=right>(<a href=#updated-on-20260119>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/ai4physics-arxiv-daily/graphs/contributors
