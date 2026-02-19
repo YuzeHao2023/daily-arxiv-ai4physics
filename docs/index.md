@@ -9,6 +9,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Investigating Nonlinear Quenching Effects on Polar Field Buildup in the Sun Using Physics-Informed Neural Networks**|Jithu J. Athalathil et.al.|[2602.16656](http://arxiv.org/abs/2602.16656)|null|
+|**2026-02-18**|**FEKAN: Feature-Enriched Kolmogorov-Arnold Networks**|Sidharth S. Menon et.al.|[2602.16530](http://arxiv.org/abs/2602.16530)|null|
+|**2026-02-18**|**Optical Inversion and Spectral Unmixing of Spectroscopic Photoacoustic Images with Physics-Informed Neural Networks**|Sarkis Ter Martirosyan et.al.|[2602.16357](http://arxiv.org/abs/2602.16357)|null|
+|**2026-02-18**|**Geometric Neural Operators via Lie Group-Constrained Latent Dynamics**|Jiaquan Zhang et.al.|[2602.16209](http://arxiv.org/abs/2602.16209)|null|
+|**2026-02-18**|**Rethinking Input Domains in Physics-Informed Neural Networks via Geometric Compactification Mappings**|Zhenzhen Huang et.al.|[2602.16193](http://arxiv.org/abs/2602.16193)|null|
+|**2026-02-18**|**Muon with Spectral Guidance: Efficient Optimization for Scientific Machine Learning**|Binghang Lu et.al.|[2602.16167](http://arxiv.org/abs/2602.16167)|null|
+|**2026-02-18**|**Solving BDNK diffusion using physics-informed neural networks**|Vicente Chomalí-Castro et.al.|[2602.16117](http://arxiv.org/abs/2602.16117)|null|
+|**2026-02-17**|**Non-local physics-informed neural networks for forward and inverse solutions of granular flows**|Saghar Zolfaghari et.al.|[2602.16081](http://arxiv.org/abs/2602.16081)|null|
+|**2026-02-17**|**Imaging-Derived Coronary Fractional Flow Reserve: Advances in Physics-Based, Machine-Learning, and Physics-Informed Methods**|Tanxin Zhu et.al.|[2602.16000](http://arxiv.org/abs/2602.16000)|null|
+|**2026-02-17**|**An Interpretable Physics Informed Multi-Stream Deep Learning Architecture for the Discrimination between Earthquake, Quarry Blast and Noise**|Nishtha Srivastava et.al.|[2602.15993](http://arxiv.org/abs/2602.15993)|null|
 |**2026-02-17**|**Controlled oscillation modeling using port-Hamiltonian neural networks**|Maximino Linares et.al.|[2602.15704](http://arxiv.org/abs/2602.15704)|null|
 |**2026-02-17**|**Neural-POD: A Plug-and-Play Neural Operator Framework for Infinite-Dimensional Functional Nonlinear Proper Orthogonal Decomposition**|Changhong Mou et.al.|[2602.15632](http://arxiv.org/abs/2602.15632)|null|
 |**2026-02-17**|**A unified theory of feature learning in RNNs and DNNs**|Jan P. Bauer et.al.|[2602.15593](http://arxiv.org/abs/2602.15593)|null|
@@ -153,6 +163,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Cantor sets in higher dimensions II: Optimal dimension constraint for stable intersections**|Meysam Nassiri et.al.|[2602.16667](http://arxiv.org/abs/2602.16667)|null|
+|**2026-02-18**|**Factorization Machine with Quadratic-Optimization Annealing for RNA Inverse Folding and Evaluation of Binary-Integer Encoding and Nucleotide Assignment**|Shuta Kikuchi et.al.|[2602.16643](http://arxiv.org/abs/2602.16643)|null|
+|**2026-02-18**|**FEKAN: Feature-Enriched Kolmogorov-Arnold Networks**|Sidharth S. Menon et.al.|[2602.16530](http://arxiv.org/abs/2602.16530)|null|
+|**2026-02-18**|**Primal-dual dynamical systems with closed-loop control for convex optimization in continuous and discrete time**|Huan Zhang et.al.|[2602.16402](http://arxiv.org/abs/2602.16402)|null|
+|**2026-02-18**|**Comet-type periodic motions and their out-of-plane bifurcations in the Earth-Moon CR3BP: a computational symplectic analysis**|Cengiz Aydin et.al.|[2602.16354](http://arxiv.org/abs/2602.16354)|null|
+|**2026-02-18**|**Load Balanced Parallel Node Generation for Meshless Numerical Methods**|Jon Vehovar et.al.|[2602.16347](http://arxiv.org/abs/2602.16347)|null|
+|**2026-02-18**|**Passive Vibration-Driven Locomotion**|Anna Zigelman et.al.|[2602.16277](http://arxiv.org/abs/2602.16277)|null|
+|**2026-02-18**|**Quantum Oracle Distribution Switching and its Applications to Fully Anonymous Ring Signatures**|Marvin Beckmann et.al.|[2602.16268](http://arxiv.org/abs/2602.16268)|null|
+|**2026-02-18**|**On the Lie noncommutative integrability**|A. V. Tsiganov et.al.|[2602.16267](http://arxiv.org/abs/2602.16267)|null|
+|**2026-02-18**|**Autonomous and non-autonomous fixed-time leader-follower consensus for second-order multi-agent systems**|Miguel A. Trujillo et.al.|[2602.16260](http://arxiv.org/abs/2602.16260)|null|
 |**2026-02-17**|**Weak mixing for area preserving flows on surfaces**|Adam Kanigowski et.al.|[2602.15719](http://arxiv.org/abs/2602.15719)|null|
 |**2026-02-17**|**Controlled oscillation modeling using port-Hamiltonian neural networks**|Maximino Linares et.al.|[2602.15704](http://arxiv.org/abs/2602.15704)|null|
 |**2026-02-17**|**On the intersections of projected Hamiltonian orbits in cotangent bundles**|Lucas Dahinden et.al.|[2602.15693](http://arxiv.org/abs/2602.15693)|null|
@@ -318,6 +338,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Numerical study of non-relativistic quantum systems and small oscillations induced in a helically twisted geometry**|C. F. S. Pereira et.al.|[2602.16693](http://arxiv.org/abs/2602.16693)|null|
+|**2026-02-18**|**On the Coupled Cluster Doubles Truncation Variety of Four Electrons**|Fabian M. Faulstich et.al.|[2602.16580](http://arxiv.org/abs/2602.16580)|null|
+|**2026-02-18**|**Illustration of Barren Plateaus in Quantum Computing**|Gerhard Stenzel et.al.|[2602.16558](http://arxiv.org/abs/2602.16558)|null|
+|**2026-02-18**|**Nonlinear Schrödinger equations with a critical, inverse-square potential**|Bartosz Bieganowski et.al.|[2602.16524](http://arxiv.org/abs/2602.16524)|null|
+|**2026-02-18**|**Structured Unitary Tensor Network Representations for Circuit-Efficient Quantum Data Encoding**|Guang Lin et.al.|[2602.16266](http://arxiv.org/abs/2602.16266)|null|
+|**2026-02-18**|**Existence and nonexistence of normalized solutions for nonlinear Schrödinger equation involving combined nonlinearities in bounded domain**|Zhen-Feng Jin et.al.|[2602.16263](http://arxiv.org/abs/2602.16263)|null|
+|**2026-02-18**|**Piecewise integrability of the discrete Hasimoto map for analytic prediction and design of helical peptides**|Yiquan Wang et.al.|[2602.16255](http://arxiv.org/abs/2602.16255)|null|
+|**2026-02-18**|**Squeezed superradiant lasing of a quantum many-body emitter**|Da-Wu Xiao et.al.|[2602.16215](http://arxiv.org/abs/2602.16215)|null|
+|**2026-02-18**|**Reductions of QAOA Induced by Classical Symmetries: Theoretical Insights and Practical Implications**|Boris Tsvelikhovskiy et.al.|[2602.16141](http://arxiv.org/abs/2602.16141)|null|
+|**2026-02-18**|**The nonlinear Schrödinger equation with combined nonlinearities in 1D**|Oscar Riaño et.al.|[2602.16122](http://arxiv.org/abs/2602.16122)|null|
 |**2026-02-17**|**Meta-Learning for GPU-Accelerated Quantum Many-Body Problems**|Yun-Hsuan Chen et.al.|[2602.15706](http://arxiv.org/abs/2602.15706)|null|
 |**2026-02-17**|**Giant atoms coupled to waveguide: Continuous coupling and multiple excitations**|Shiying Lin et.al.|[2602.15389](http://arxiv.org/abs/2602.15389)|null|
 |**2026-02-16**|**Spectral signatures of nonstabilizerness and criticality in infinite matrix product states**|Andrew Hallam et.al.|[2602.15116](http://arxiv.org/abs/2602.15116)|null|
@@ -464,6 +494,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**$p$ -wave magnet driven field-free Josephson diode effect**|Lovy Sharma et.al.|[2602.16677](http://arxiv.org/abs/2602.16677)|null|
+|**2026-02-18**|**Exceptional horns in $n$ -root graphene and Lieb photonic ring lattices**|A. M. Marques et.al.|[2602.16670](http://arxiv.org/abs/2602.16670)|null|
+|**2026-02-18**|**Design Principles for Fluid Molecular Ferroelectrics**|Calum J Gibb et.al.|[2602.16649](http://arxiv.org/abs/2602.16649)|null|
+|**2026-02-18**|**Stoichiometry Dependent Properties of Cerium Hydride: An Active Learning Developed Interatomic Potential Study**|Brenden W. Hamilton et.al.|[2602.16628](http://arxiv.org/abs/2602.16628)|null|
+|**2026-02-18**|**Continuous and discontinuous realizations of first-order phase transitions**|Matthias Hempel et.al.|[2602.16563](http://arxiv.org/abs/2602.16563)|null|
+|**2026-02-18**|**Exciton-Selective Phonon Coupling in a Lead Halide Perovskite**|Pradeepa H. L. et.al.|[2602.16533](http://arxiv.org/abs/2602.16533)|null|
+|**2026-02-18**|**Fragment-Based Configuration Interaction: Towards a Unifying Description of Biexcitonic Processes in Molecular Aggregates**|Johannes E. Adelsperger et.al.|[2602.16528](http://arxiv.org/abs/2602.16528)|null|
+|**2026-02-18**|**Monte Carlo study of the classical antiferromagnetic $J_1$-$J_2$-$J_3$ Heisenberg model on a simple cubic lattice**|A. N. Ignatenko et.al.|[2602.16471](http://arxiv.org/abs/2602.16471)|null|
+|**2026-02-18**|**Edge states and quantum optical high-harmonic generation from topological insulators**|Christian Saugbjerg Lange et.al.|[2602.16454](http://arxiv.org/abs/2602.16454)|null|
+|**2026-02-18**|**Confinement Epitaxy of Large-Area Two-Dimensional Sn at the Graphene/SiC Interface**|Zamin Mamiyev et.al.|[2602.16451](http://arxiv.org/abs/2602.16451)|null|
 |**2026-02-17**|**Hubble-Scale Tachyonic Shocks from Low-Scale Inflation -- A New Gravitational-Wave Window on Inflation**|Haruto Masubuchi et.al.|[2602.15825](http://arxiv.org/abs/2602.15825)|null|
 |**2026-02-17**|**Polarization-resolved measurement of forward volume spin waves by micro-focused Brillouin light scattering**|Krzysztof Szulc et.al.|[2602.15760](http://arxiv.org/abs/2602.15760)|null|
 |**2026-02-17**|**How to Train a Shallow Ensemble**|Moritz Schäfer et.al.|[2602.15747](http://arxiv.org/abs/2602.15747)|null|
@@ -629,6 +669,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**A.E. Convergence vs Boundedness**|Xinyu Gao et.al.|[2602.16654](http://arxiv.org/abs/2602.16654)|null|
+|**2026-02-18**|**Nonlinear Frequency Shifts due to Phase Coherent Interactions in Incompressible Hall MHD Turbulence**|Erik C. Hansen et.al.|[2602.16652](http://arxiv.org/abs/2602.16652)|null|
+|**2026-02-18**|**Growth and crystallographic structure of TiTe $_2$ on Au(111): From sub-monolayer structures to single- and multi-layer films**|Andreas Raabgrund et.al.|[2602.16647](http://arxiv.org/abs/2602.16647)|null|
+|**2026-02-18**|**Measurement of the Saturation Length of the Self-Modulation Instability**|A. Clairembaud et.al.|[2602.16624](http://arxiv.org/abs/2602.16624)|null|
+|**2026-02-18**|**Laboratory observation of collective beam-plasma instabilities in a relativistic pair jet**|J W D Halliday et.al.|[2602.16542](http://arxiv.org/abs/2602.16542)|null|
+|**2026-02-18**|**Fragment-Based Configuration Interaction: Towards a Unifying Description of Biexcitonic Processes in Molecular Aggregates**|Johannes E. Adelsperger et.al.|[2602.16528](http://arxiv.org/abs/2602.16528)|null|
+|**2026-02-18**|**Localized $^{18}$ O production in white dwarf mergers**|Alexander Holas et.al.|[2602.16394](http://arxiv.org/abs/2602.16394)|null|
+|**2026-02-18**|**How Reliable is Your Service at the Extreme Edge? Analytical Modeling of Computational Reliability**|MHD Saria Allahham et.al.|[2602.16362](http://arxiv.org/abs/2602.16362)|null|
+|**2026-02-18**|**Large-Time Asymptotics for Heat and Fractional Heat Equations on the Lattice and General Finite Subgraphs**|Rui Chen et.al.|[2602.16339](http://arxiv.org/abs/2602.16339)|null|
+|**2026-02-18**|**One-factorizations of complete multipartite graphs with distance constraints**|Yuli Tan et.al.|[2602.16319](http://arxiv.org/abs/2602.16319)|null|
 |**2026-02-17**|**On Graham's rearrangement conjecture**|Huy Tuan Pham et.al.|[2602.15797](http://arxiv.org/abs/2602.15797)|null|
 |**2026-02-17**|**Physics-informed data-driven inference of an interpretable equivariant LES model of incompressible fluid turbulence**|Matteo Ugliotti et.al.|[2602.15743](http://arxiv.org/abs/2602.15743)|null|
 |**2026-02-17**|**Quantitative enstrophy bounds for measure vorticities**|Luigi De Rosa et.al.|[2602.15670](http://arxiv.org/abs/2602.15670)|null|
@@ -794,6 +844,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Yang-Mills Flux Tube in AdS II: Effective String Theory**|Barak Gabai et.al.|[2602.16694](http://arxiv.org/abs/2602.16694)|null|
+|**2026-02-18**|**Scattering data and correlation function for the $K f_1(1285)$ interaction**|Wen-Hao Jia et.al.|[2602.16683](http://arxiv.org/abs/2602.16683)|null|
+|**2026-02-18**|**VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection**|Yingyuan Yang et.al.|[2602.16681](http://arxiv.org/abs/2602.16681)|null|
+|**2026-02-18**|**FLUKA-Based Optimization of Muon Production Target Design for a Muon Collider Demonstrator**|Ruaa Al-Harthy et.al.|[2602.16672](http://arxiv.org/abs/2602.16672)|null|
+|**2026-02-18**|**The spatial Wilson loops, string breaking, and AdS/QCD**|Oleg Andreev et.al.|[2602.16657](http://arxiv.org/abs/2602.16657)|null|
+|**2026-02-18**|**Dynamic effects of external axion fields in a system of many particles with spin**|Mariya Iv. Trukhanova et.al.|[2602.16627](http://arxiv.org/abs/2602.16627)|null|
+|**2026-02-18**|**Entanglement negativity in decohered topological states**|Kang-Le Cai et.al.|[2602.16597](http://arxiv.org/abs/2602.16597)|null|
+|**2026-02-18**|**Isospin dependence of nuclear EMC effect from global QCD analysis**|C. Cocuzza et.al.|[2602.16589](http://arxiv.org/abs/2602.16589)|null|
+|**2026-02-18**|**M2-branes, Higher Form Symmetries and 1-Gerbes**|Fabián Caro-Pérez et.al.|[2602.16582](http://arxiv.org/abs/2602.16582)|null|
+|**2026-02-18**|**Recent results on the $Λ\rightarrow p\ell \barν_\ell$ semileptonic decay**|Simone Bacchio et.al.|[2602.16560](http://arxiv.org/abs/2602.16560)|null|
 |**2026-02-17**|**Hubble-Scale Tachyonic Shocks from Low-Scale Inflation -- A New Gravitational-Wave Window on Inflation**|Haruto Masubuchi et.al.|[2602.15825](http://arxiv.org/abs/2602.15825)|null|
 |**2026-02-17**|**Deformed Heisenberg algebra and its Hilbert space representations**|Latévi M. Lawson et.al.|[2602.15801](http://arxiv.org/abs/2602.15801)|null|
 |**2026-02-17**|**Neural Scaling Laws for Boosted Jet Tagging**|Matthias Vigl et.al.|[2602.15781](http://arxiv.org/abs/2602.15781)|null|
@@ -959,6 +1019,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**How Bursty is Star Formation at z>5?**|Massimo Stiavelli et.al.|[2602.16706](http://arxiv.org/abs/2602.16706)|null|
+|**2026-02-18**|**Two-mode dominance and deterministic parameter bias bounds for equatorial Kerr-de Sitter ringdown**|Ruiliang Li et.al.|[2602.16691](http://arxiv.org/abs/2602.16691)|null|
+|**2026-02-18**|**Orbital Motions of Binaries in Orion South**|Luis A. Zapata et.al.|[2602.16676](http://arxiv.org/abs/2602.16676)|null|
+|**2026-02-18**|**Updated Constraints on Infrared Cutoff Models and Implications for Large-Scale CMB Anomalies**|Ujjwal Upadhyay et.al.|[2602.16659](http://arxiv.org/abs/2602.16659)|null|
+|**2026-02-18**|**Investigating Nonlinear Quenching Effects on Polar Field Buildup in the Sun Using Physics-Informed Neural Networks**|Jithu J. Athalathil et.al.|[2602.16656](http://arxiv.org/abs/2602.16656)|null|
+|**2026-02-18**|**Interpreting the HI 21-cm cosmology maps through Largest Cluster Statistics III: Impact of the lightcone effect**|Hemanth Potluri et.al.|[2602.16651](http://arxiv.org/abs/2602.16651)|null|
+|**2026-02-18**|**Two warm sub-Saturn mass planets identified from the TESS Full Frame Images**|Felipe I. Rojas et.al.|[2602.16646](http://arxiv.org/abs/2602.16646)|null|
+|**2026-02-18**|**Dynamic effects of external axion fields in a system of many particles with spin**|Mariya Iv. Trukhanova et.al.|[2602.16627](http://arxiv.org/abs/2602.16627)|null|
+|**2026-02-18**|**HOLISMOKES XX. Lens models of binary lens galaxies with five images of Supernova Winny**|L. R. Ecker et.al.|[2602.16620](http://arxiv.org/abs/2602.16620)|null|
+|**2026-02-18**|**Meteor statistics I: The distribution of instrumental magnitudes**|Althea V. Moorhead et.al.|[2602.16614](http://arxiv.org/abs/2602.16614)|null|
 |**2026-02-17**|**Hubble-Scale Tachyonic Shocks from Low-Scale Inflation -- A New Gravitational-Wave Window on Inflation**|Haruto Masubuchi et.al.|[2602.15825](http://arxiv.org/abs/2602.15825)|null|
 |**2026-02-17**|**Radial oscillations of pulsating neutron stars: The UCIa equation-of-state case**|G. Panotopoulos et.al.|[2602.15818](http://arxiv.org/abs/2602.15818)|null|
 |**2026-02-17**|**Nearest Neighbour-Based Statistics for 21cm-Galaxy Cross-Correlations in the Epoch of Reionization**|Anirban Chakraborty et.al.|[2602.15803](http://arxiv.org/abs/2602.15803)|null|
@@ -1124,6 +1194,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**AIFL: A Global Daily Streamflow Forecasting Model Using Deterministic LSTM Pre-trained on ERA5-Land and Fine-tuned on IFS**|Maria Luisa Taccari et.al.|[2602.16579](http://arxiv.org/abs/2602.16579)|null|
+|**2026-02-18**|**Generative deep learning improves reconstruction of global historical climate records**|Zhen Qian et.al.|[2602.16515](http://arxiv.org/abs/2602.16515)|null|
+|**2026-02-18**|**Propagation Characteristics of the April 21, 2023 CME**|Sandeep Kumar et.al.|[2602.16239](http://arxiv.org/abs/2602.16239)|null|
+|**2026-02-18**|**Graph neural network for colliding particles with an application to sea ice floe modeling**|Ruibiao Zhu et.al.|[2602.16213](http://arxiv.org/abs/2602.16213)|null|
+|**2026-02-17**|**Examining Fast Radiative Feedbacks Using Machine-Learning Weather Emulators**|Ankur Mahesh et.al.|[2602.16090](http://arxiv.org/abs/2602.16090)|null|
 |**2026-02-17**|**Ensemble-size-dependence of deep-learning post-processing methods that minimize an (un)fair score: motivating examples and a proof-of-concept solution**|Christopher David Roberts et.al.|[2602.15830](http://arxiv.org/abs/2602.15830)|null|
 |**2026-02-17**|**Southern Ocean latent heat flux variability driven by oceanic meso- and submesoscale motions**|Lucie Reymondet et.al.|[2602.15768](http://arxiv.org/abs/2602.15768)|null|
 |**2026-02-17**|**AgriWorld:A World Tools Protocol Framework for Verifiable Agricultural Reasoning with Code-Executing LLM Agents**|Zhixing Zhang et.al.|[2602.15325](http://arxiv.org/abs/2602.15325)|null|
@@ -1266,6 +1341,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Enhanced Diffusion Sampling: Efficient Rare Event Sampling and Free Energy Calculation with Diffusion Models**|Yu Xie et.al.|[2602.16634](http://arxiv.org/abs/2602.16634)|null|
+|**2026-02-18**|**Style-Aware Gloss Control for Generative Non-Photorealistic Rendering**|Santiago Jimenez-Navarro et.al.|[2602.16611](http://arxiv.org/abs/2602.16611)|null|
+|**2026-02-18**|**Error Propagation and Model Collapse in Diffusion Models: A Theoretical Study**|Nail B. Khelifa et.al.|[2602.16601](http://arxiv.org/abs/2602.16601)|null|
+|**2026-02-18**|**Steering diffusion models with quadratic rewards: a fine-grained analysis**|Ankur Moitra et.al.|[2602.16570](http://arxiv.org/abs/2602.16570)|null|
+|**2026-02-18**|**Scattering and sputtering on the lunar surface; Insights from negative ions observed at the surface**|Romain Canu-Blot et.al.|[2602.16567](http://arxiv.org/abs/2602.16567)|null|
+|**2026-02-18**|**RIDER: 3D RNA Inverse Design with Reinforcement Learning-Guided Diffusion**|Tianmeng Hu et.al.|[2602.16548](http://arxiv.org/abs/2602.16548)|null|
+|**2026-02-18**|**Fast and Scalable Analytical Diffusion**|Xinyi Shang et.al.|[2602.16498](http://arxiv.org/abs/2602.16498)|null|
+|**2026-02-18**|**UCTECG-Net: Uncertainty-aware Convolution Transformer ECG Network for Arrhythmia Detection**|Hamzeh Asgharnezhad et.al.|[2602.16216](http://arxiv.org/abs/2602.16216)|null|
+|**2026-02-18**|**Training-Free Adaptation of Diffusion Models via Doob's $h$ -Transform**|Qijie Zhu et.al.|[2602.16198](http://arxiv.org/abs/2602.16198)|null|
+|**2026-02-18**|**SIT-LMPC: Safe Information-Theoretic Learning Model Predictive Control for Iterative Tasks**|Zirui Zang et.al.|[2602.16187](http://arxiv.org/abs/2602.16187)|null|
 |**2026-02-17**|**VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation**|Hui Ren et.al.|[2602.15819](http://arxiv.org/abs/2602.15819)|null|
 |**2026-02-17**|**Development of an accurate formalism to predict properties of two-neutron halo nuclei: case study of $^{22}$ C**|Patrick McGlynn et.al.|[2602.15765](http://arxiv.org/abs/2602.15765)|null|
 |**2026-02-17**|**How to Train a Shallow Ensemble**|Moritz Schäfer et.al.|[2602.15747](http://arxiv.org/abs/2602.15747)|null|
