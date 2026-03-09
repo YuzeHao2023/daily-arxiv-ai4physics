@@ -863,7 +863,7 @@ layout: default
 |**2026-03-03**|**Suppression of Spectral Gap and Flat Bands on a Cuprate Superconductor Side-Surface**|Gabriele Domaine et.al.|[2603.03092](http://arxiv.org/abs/2603.03092)|null|
 |**2026-03-03**|**Scaling of silicon spin qubits under correlated noise**|Juan S. Rojas-Arias et.al.|[2603.03051](http://arxiv.org/abs/2603.03051)|null|
 |**2026-03-03**|**Current-control of chaos and effects of thermal fluctuations in magnetic tunnel junctions**|Ryo Tatsumi et.al.|[2603.03046](http://arxiv.org/abs/2603.03046)|null|
-|**2026-03-02**|**Controlling Terahertz Spintronic Photocurrents in 2D-Semiconductor|Ferromagnet Heterostructures through a Functional Hybrid Interface**|A. Alostaz et.al.|[2603.02173](http://arxiv.org/abs/2603.02173)|null|
+|**2026-03-02**|**Controlling Terahertz Spintronic Photocurrents in 2D-Semiconductor|Ferromagnet Heterostructures through a Functional Hybrid Interface**|A. Alostaz et.al.|[2603.02173](http://arxiv.org/abs/2603.02173)|
 |**2026-03-02**|**Kinetic energy fluctuations and specific heat in generalized ensembles**|Sergio Davis et.al.|[2603.02168](http://arxiv.org/abs/2603.02168)|null|
 |**2026-03-02**|**Topological Gyromorphs**|Laura Gómez Paz et.al.|[2603.02167](http://arxiv.org/abs/2603.02167)|null|
 |**2026-03-02**|**Elucidating different $NO_{2}$ sensing mechanisms in oxidized PbS nanocrystals**|Fernando M. Fernandes et.al.|[2603.02121](http://arxiv.org/abs/2603.02121)|null|
@@ -1756,7 +1756,7 @@ layout: default
 |**2026-03-02**|**Effective potentials for de Sitter and anti de Sitter quantum fields**|Alfio Bonanno et.al.|[2603.02140](http://arxiv.org/abs/2603.02140)|null|
 |**2026-03-02**|**Sensitivity to sub-GeV dark matter in forthcoming spallation-source neutrino experiments**|D. Aristizabal Sierra et.al.|[2603.02132](http://arxiv.org/abs/2603.02132)|null|
 |**2026-03-02**|**On the Physical Nature of the Scalar Mode Mass in the Jordan frame of a Metric $f(R)$ gravity**|Giovanni Montani et.al.|[2603.02124](http://arxiv.org/abs/2603.02124)|null|
-|**2026-03-02**|**Low- $T/|W|$ instabilities in differentially rotating neutron stars resembling merger remnants**|Georgios Lioutas et.al.|[2603.02120](http://arxiv.org/abs/2603.02120)|null|
+|**2026-03-02**|**Low- $T/|W|$ instabilities in differentially rotating neutron stars resembling merger remnants**|Georgios Lioutas et.al.|
 |**2026-03-02**|**A Template-Based Search for Large-Scale-Structure--Correlated Anisotropy in the Nanohertz Gravitational-Wave Background Using the Public NANOGrav 15-Year Data Set**|Yun Fang et.al.|[2603.02110](http://arxiv.org/abs/2603.02110)|null|
 |**2026-02-27**|**Dynamics of spinning particles in pp-wave spacetimes**|K. Andrzejewski et.al.|[2602.24267](http://arxiv.org/abs/2602.24267)|null|
 |**2026-02-27**|**Direct VLBI Detection of Interstellar Turbulence Imprint on a Quasar: TXS 2005+403**|Alexander Plavin et.al.|[2602.24255](http://arxiv.org/abs/2602.24255)|null|
