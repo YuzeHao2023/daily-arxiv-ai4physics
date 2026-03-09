@@ -840,6 +840,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**A recipe for scalable attention-based MLIPs: unlocking long-range accuracy with all-to-all node attention**|Eric Qu et.al.|[2603.06567](http://arxiv.org/abs/2603.06567)|null|
+|**2026-03-06**|**Unifying description of competing chiral and nematic superconducting states in twisted bilayer graphene**|Lucas Baldo et.al.|[2603.06550](http://arxiv.org/abs/2603.06550)|null|
+|**2026-03-06**|**Nanoscale Electronic Phase Separation Driven by Fe-site Ordering in Fe\textsubscript{5-x}GeTe\textsubscript{2}**|Shreyashi Sinha et.al.|[2603.06539](http://arxiv.org/abs/2603.06539)|null|
+|**2026-03-06**|**Deterministic Electrical Switching in Altermagnets via Surface Antisymmetry Groups**|K. D. Belashchenko et.al.|[2603.06537](http://arxiv.org/abs/2603.06537)|null|
 |**2026-03-06**|**Tomographic collective modes in a magnetic field**|Jeff Maki et.al.|[2603.06518](http://arxiv.org/abs/2603.06518)|null|
 |**2026-03-06**|**Methods for characterization of atomic-scale field emission point-electron-source**|Shuai Tang et.al.|[2603.06499](http://arxiv.org/abs/2603.06499)|null|
 |**2026-03-06**|**Altermagnets Enable Gate-Switchable Helical and Chiral Topological Transport with Spin-Valley-Momentum-Locked Dual Protection**|Xianzhang Chen et.al.|[2603.06487](http://arxiv.org/abs/2603.06487)|null|
@@ -1434,6 +1438,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**An ode to instantons**|Oliver Janssen et.al.|[2603.06575](http://arxiv.org/abs/2603.06575)|null|
+|**2026-03-06**|**Third-order mixed electroweak-QCD corrections to the W-boson mass prediction from the muon lifetime**|Ievgen Dubovyk et.al.|[2603.06571](http://arxiv.org/abs/2603.06571)|null|
+|**2026-03-06**|**Higher-dimensional BKL dynamics in AdS black holes**|Elena Cáceres et.al.|[2603.06560](http://arxiv.org/abs/2603.06560)|null|
+|**2026-03-06**|**Recursive reduction of two-loop tensor integrals**|Fabian Lange et.al.|[2603.06549](http://arxiv.org/abs/2603.06549)|null|
+|**2026-03-06**|**Chiral-Maxwell Cavity EFT: Photon Condensation and Quantum-Optics Limits**|Fabrizio Canfora et.al.|[2603.06547](http://arxiv.org/abs/2603.06547)|null|
 |**2026-03-06**|**Modern jet flavour tagging in hadronic Z decays with archived ALEPH data**|Matteo M. Defranchis et.al.|[2603.06524](http://arxiv.org/abs/2603.06524)|null|
 |**2026-03-06**|**Comment on: "Third-order corrections to the slow-roll expansion: Calculation and constraints with Planck, ACT, SPT, and BICEP/Keck [2025 PDU 47 101813]"**|Pierre Auclair et.al.|[2603.06521](http://arxiv.org/abs/2603.06521)|null|
 |**2026-03-06**|**Construction and Science of SURF**|Jaret Heise et.al.|[2603.06504](http://arxiv.org/abs/2603.06504)|null|
@@ -1731,6 +1740,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**The Prevalence of Turbulence-Regulated Multiphase Galactic Winds in Star-Forming Galaxies**|Zhihui Li et.al.|[2603.06568](http://arxiv.org/abs/2603.06568)|null|
+|**2026-03-06**|**Data-Driven Trends and Subpopulations in the Gravitational Wave Binary Black Hole Merger Population with UMAP**|A. J. Amsellem et.al.|[2603.06566](http://arxiv.org/abs/2603.06566)|null|
+|**2026-03-06**|**Higher-dimensional BKL dynamics in AdS black holes**|Elena Cáceres et.al.|[2603.06560](http://arxiv.org/abs/2603.06560)|null|
+|**2026-03-06**|**Kinematically Coherent Multiphase Galactic Winds in Star-Forming Galaxies Revealed by Unified Radiative Transfer Modeling of UV Emission and Absorption Lines**|Zhihui Li et.al.|[2603.06546](http://arxiv.org/abs/2603.06546)|null|
 |**2026-03-06**|**Comment on: "Third-order corrections to the slow-roll expansion: Calculation and constraints with Planck, ACT, SPT, and BICEP/Keck [2025 PDU 47 101813]"**|Pierre Auclair et.al.|[2603.06521](http://arxiv.org/abs/2603.06521)|null|
 |**2026-03-06**|**Constraining turbulent solar flare acceleration regions by connecting kinetic modeling and X-ray observations**|Morgan Stores et.al.|[2603.06517](http://arxiv.org/abs/2603.06517)|null|
 |**2026-03-06**|**Hybrid quantum-classical simulations of semiclassical gravity**|Carlos Fulgado-Claudio et.al.|[2603.06511](http://arxiv.org/abs/2603.06511)|null|
@@ -2270,6 +2283,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion**|Lijiang Li et.al.|[2603.06577](http://arxiv.org/abs/2603.06577)|null|
 |**2026-03-06**|**When One Modality Rules Them All: Backdoor Modality Collapse in Multimodal Diffusion Models**|Qitong Wang et.al.|[2603.06508](http://arxiv.org/abs/2603.06508)|null|
 |**2026-03-06**|**Quantum Diffusion Models: Score Reversal Is Not Free in Gaussian Dynamics**|Ammar Fayad et.al.|[2603.06488](http://arxiv.org/abs/2603.06488)|null|
 |**2026-03-06**|**Unbiased Bayesian Inference of Peculiar Motions of Galaxies from Type Ia Supernovae Observations**|Ujjwal Upadhyay et.al.|[2603.06469](http://arxiv.org/abs/2603.06469)|null|
