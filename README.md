@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Separable neural architectures as a primitive for unified predictive and generative intelligence**|Reza T. Batley et.al.|[2603.12244](http://arxiv.org/abs/2603.12244)|null|
 |**2026-03-12**|**Topological DeepONets and a generalization of the Chen-Chen operator approximation theorem**|Vugar Ismailov et.al.|[2603.11972](http://arxiv.org/abs/2603.11972)|null|
 |**2026-03-12**|**Inverse Neural Operator for ODE Parameter Optimization**|Zhi-Song Liu et.al.|[2603.11854](http://arxiv.org/abs/2603.11854)|null|
 |**2026-03-12**|**SVLL: Staged Vision-Language Learning for Physically Grounded Embodied Task Planning**|Yuyuan Yang et.al.|[2603.11563](http://arxiv.org/abs/2603.11563)|null|
@@ -304,6 +305,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Separable neural architectures as a primitive for unified predictive and generative intelligence**|Reza T. Batley et.al.|[2603.12244](http://arxiv.org/abs/2603.12244)|null|
+|**2026-03-12**|**On the density of the supremum of nonlinear SPDEs**|Georgia Karali et.al.|[2603.12186](http://arxiv.org/abs/2603.12186)|null|
 |**2026-03-12**|**A geometric approach to exponentially small splitting: Zero-Hopf bifurcations of arbitrary co-dimension**|Kristian Uldall Kristiansen et.al.|[2603.12115](http://arxiv.org/abs/2603.12115)|null|
 |**2026-03-12**|**Social Distancing Equilibria in Games under Conventional SI Dynamics**|Connor D Olson et.al.|[2603.12107](http://arxiv.org/abs/2603.12107)|null|
 |**2026-03-12**|**Asymptotic Convergence of the Frank-Wolfe Algorithm for Monotone Variational Inequalities**|Matthew Hough et.al.|[2603.12104](http://arxiv.org/abs/2603.12104)|null|
@@ -657,6 +660,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Stable Topology in Exactly Flat Bands**|Yan-Qi Li et.al.|[2603.12258](http://arxiv.org/abs/2603.12258)|null|
+|**2026-03-12**|**Onset of Ergodicity Across Scales on a Digital Quantum Processor**|Faisal Alam et.al.|[2603.12236](http://arxiv.org/abs/2603.12236)|null|
+|**2026-03-12**|**Transition from Statistical to Hardware-Limited Scaling in Photonic Quantum State Reconstruction**|Attila Baumann et.al.|[2603.12235](http://arxiv.org/abs/2603.12235)|null|
+|**2026-03-12**|**Optimal control with flag qubits**|Liang-Xu Xie et.al.|[2603.12162](http://arxiv.org/abs/2603.12162)|null|
 |**2026-03-12**|**Measurement-Induced State transitions in Inductively-Shunted Transmons**|Nicholas Zobrist et.al.|[2603.12114](http://arxiv.org/abs/2603.12114)|null|
 |**2026-03-12**|**Efficient Generative Modeling with Unitary Matrix Product States Using Riemannian Optimization**|Haotong Duan et.al.|[2603.12026](http://arxiv.org/abs/2603.12026)|null|
 |**2026-03-12**|**From vacuum amplitudes to qubits**|Germán Rodrigo et.al.|[2603.11968](http://arxiv.org/abs/2603.11968)|null|
@@ -974,6 +981,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Emergent Anomalous Hall Effect from Surface States in the Altermagnet MnTe Thin Films**|Yufei Zhao et.al.|[2603.12259](http://arxiv.org/abs/2603.12259)|null|
+|**2026-03-12**|**Quantum Inductance as a Phase-Sensitive Probe of Fermion Parity Switching in Majorana Nanowires**|Binayyak B. Roy et.al.|[2603.12256](http://arxiv.org/abs/2603.12256)|null|
+|**2026-03-12**|**Hidden polar phase in the quantum paraelectric SrTiO3**|Huaiyu Hugo Wang et.al.|[2603.12239](http://arxiv.org/abs/2603.12239)|null|
+|**2026-03-12**|**Transition from Statistical to Hardware-Limited Scaling in Photonic Quantum State Reconstruction**|Attila Baumann et.al.|[2603.12235](http://arxiv.org/abs/2603.12235)|null|
+|**2026-03-12**|**Persistent altermagnetism**|Warlley H. Campos et.al.|[2603.12223](http://arxiv.org/abs/2603.12223)|null|
+|**2026-03-12**|**A superconducting half-dome in bilayer nickelates**|Yidi Liu et.al.|[2603.12196](http://arxiv.org/abs/2603.12196)|null|
+|**2026-03-12**|**Proof-Carrying Materials: Falsifiable Safety Certificates for Machine-Learned Interatomic Potentials**|Abhinaba Basu et.al.|[2603.12183](http://arxiv.org/abs/2603.12183)|null|
+|**2026-03-12**|**Pressure-Induced Chemical Bonding Effects on Lattice and Magnetic Instabilities in Antiferromagnetic Insulating CaMn $_2$Sb$_2$**|Matt Boswell et.al.|[2603.12181](http://arxiv.org/abs/2603.12181)|null|
+|**2026-03-12**|**Coherent perfect absorption of anti-modes in an indirect coupled magnon-polariton system**|Chenyang Lu et.al.|[2603.12174](http://arxiv.org/abs/2603.12174)|null|
+|**2026-03-12**|**Irradiation-induced amplification of electric fields at oxide interfaces as revealed by correlative DPC-STEM and DFT**|Elizabeth A. Peterson et.al.|[2603.12153](http://arxiv.org/abs/2603.12153)|null|
 |**2026-03-12**|**Directional Manipulation of a Staggered Charge Density Wave and Kondo Resonance in UTe2**|Nileema Sharma et.al.|[2603.12097](http://arxiv.org/abs/2603.12097)|null|
 |**2026-03-12**|**Quantum interference in a twisted high-Tc SQUID senses emergent interfacial order**|Amit Basu et.al.|[2603.12092](http://arxiv.org/abs/2603.12092)|null|
 |**2026-03-12**|**Ferromagnetic resonance modes in trilayer artificial spin ices subject to interfacial Dzyaloshinskii-Moriya interaction**|V. Vanga et.al.|[2603.12066](http://arxiv.org/abs/2603.12066)|null|
@@ -1328,6 +1345,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**Le Roy, Lerch and Legendre chi functions and generalised Borel-Le Roy transform**|Giuseppe Dattoli et.al.|[2603.12164](http://arxiv.org/abs/2603.12164)|null|
+|**2026-03-12**|**Quantum lower bounds for simulating fluid dynamics**|Abtin Ameri et.al.|[2603.12161](http://arxiv.org/abs/2603.12161)|null|
+|**2026-03-12**|**Optimization of stellarator configurations combining omnigenity and piecewise omnigenity**|Hengqian Liu et.al.|[2603.12139](http://arxiv.org/abs/2603.12139)|null|
+|**2026-03-12**|**Global and local helicity-preservation in the finite element discretisation of magnetic relaxation**|Patrick E. Farrell et.al.|[2603.12134](http://arxiv.org/abs/2603.12134)|null|
 |**2026-03-12**|**Cross-Context Review: Improving LLM Output Quality by Separating Production and Review Sessions**|Tae-Eun Song et.al.|[2603.12123](http://arxiv.org/abs/2603.12123)|null|
 |**2026-03-12**|**Frequency downshifting stair for ultra-intense femtosecond lasers through a plasma-photonics structure**|Yunxiao He et.al.|[2603.12074](http://arxiv.org/abs/2603.12074)|null|
 |**2026-03-12**|**Fluid-Structure interactions with Navier- and full-slip boundary conditions**|Antonín Češík et.al.|[2603.12030](http://arxiv.org/abs/2603.12030)|null|
@@ -1679,6 +1700,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**$\bar{D}$ -meson Nucleon Scattering from Lattice QCD at the Physical Point**|Wren Yamada et.al.|[2603.12251](http://arxiv.org/abs/2603.12251)|null|
+|**2026-03-12**|**Factorization vs. Non-Factorization: S-Matrix Corrections for Precision Neutrino Physics**|D. Delepine et.al.|[2603.12242](http://arxiv.org/abs/2603.12242)|null|
+|**2026-03-12**|**Scale-Dependent Loop Corrections to the Inflationary Power Spectrum**|Matteo Braglia et.al.|[2603.12216](http://arxiv.org/abs/2603.12216)|null|
+|**2026-03-12**|**Hawking Radiation from Tunneling in Black Hole Quantum Mechanics**|Chong-Sun Chu et.al.|[2603.12199](http://arxiv.org/abs/2603.12199)|null|
+|**2026-03-12**|**Schwinger Model with a Dynamical Axion**|Gabriel Rouxinol et.al.|[2603.12194](http://arxiv.org/abs/2603.12194)|null|
+|**2026-03-12**|**Neutrino Flavor Evolution in High Flux Astrophysical Environments**|Joseph Carlson et.al.|[2603.12192](http://arxiv.org/abs/2603.12192)|null|
 |**2026-03-12**|**From Lagrangian to Higgs physics constraints for SUSY and non-SUSY models: interfacing FlexibleSUSY with HiggsTools and Lilith**|Wojciech Kotlarski et.al.|[2603.12119](http://arxiv.org/abs/2603.12119)|null|
 |**2026-03-12**|**Integrability from Homotopy Algebras**|Luigi Alfonsi et.al.|[2603.12113](http://arxiv.org/abs/2603.12113)|null|
 |**2026-03-12**|**Topological field theory plus local Lorentz symmetry is gravity**|Maïté Dupuis et.al.|[2603.12100](http://arxiv.org/abs/2603.12100)|null|
@@ -2039,6 +2066,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**An Updated \synthpop Model for Microlensing Simulations I: Model Description, Evaluation, and Microlensing Event Rates Near the Galactic Center**|Macy J. Huston et.al.|[2603.12219](http://arxiv.org/abs/2603.12219)|null|
+|**2026-03-12**|**Scale-Dependent Loop Corrections to the Inflationary Power Spectrum**|Matteo Braglia et.al.|[2603.12216](http://arxiv.org/abs/2603.12216)|null|
+|**2026-03-12**|**Magnetoacoustic Shocks and Spectropolarimetric Signals in He I 10830 Å**|Hirdesh Kumar et.al.|[2603.12213](http://arxiv.org/abs/2603.12213)|null|
+|**2026-03-12**|**Comparing the $M_{gas}-N_{yso}$ Relation inside a Giant Molecular Cloud**|Carlos G. Román-Zúñiga et.al.|[2603.12212](http://arxiv.org/abs/2603.12212)|null|
+|**2026-03-12**|**X-ray evidence from NuSTAR for a Mach 3 shock in Merging Galaxy Cluster ZWCL 1856.8**|Ayşegül Tümer et.al.|[2603.12207](http://arxiv.org/abs/2603.12207)|null|
+|**2026-03-12**|**GATOS N: The first direct kinematic evidence of dusty outflows from AGN via PAH kinematics of local Seyfert galaxies with JWST**|Fergus R. Donnan et.al.|[2603.12200](http://arxiv.org/abs/2603.12200)|null|
+|**2026-03-12**|**Hawking Radiation from Tunneling in Black Hole Quantum Mechanics**|Chong-Sun Chu et.al.|[2603.12199](http://arxiv.org/abs/2603.12199)|null|
+|**2026-03-12**|**Neutrino Flavor Evolution in High Flux Astrophysical Environments**|Joseph Carlson et.al.|[2603.12192](http://arxiv.org/abs/2603.12192)|null|
+|**2026-03-12**|**Shifted-geodesic approximation for spinning-body gravitational wave fluxes**|Lisa V. Drummond et.al.|[2603.12189](http://arxiv.org/abs/2603.12189)|null|
+|**2026-03-12**|**Small-Scale and Transient EUV Kernels in Solar Flare Ribbons**|Hannah Collier et.al.|[2603.12178](http://arxiv.org/abs/2603.12178)|null|
 |**2026-03-12**|**Rediscussion of eclipsing binaries. Paper XXIX. The F-type twin system BS Draconis**|John Southworth et.al.|[2603.12125](http://arxiv.org/abs/2603.12125)|null|
 |**2026-03-12**|**Comparison of Bar Formation Mechanisms. IIIA. The role of classical bulges in spontaneous bar formation**|Yirui Zheng et.al.|[2603.12121](http://arxiv.org/abs/2603.12121)|null|
 |**2026-03-12**|**Topological field theory plus local Lorentz symmetry is gravity**|Maïté Dupuis et.al.|[2603.12100](http://arxiv.org/abs/2603.12100)|null|
@@ -2400,6 +2437,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**RDNet: Region Proportion-Aware Dynamic Adaptive Salient Object Detection Network in Optical Remote Sensing Images**|Bin Wan et.al.|[2603.12215](http://arxiv.org/abs/2603.12215)|null|
 |**2026-03-12**|**Breaching the Barrier: Transition Pathways of Coral Larval Connectivity Across the Eastern Pacific**|Maria Olascoaga et.al.|[2603.12111](http://arxiv.org/abs/2603.12111)|null|
 |**2026-03-12**|**Bathymetry reconstruction via optimal control in well-balanced finite element methods for the shallow water equations**|Falko Ruppenthal et.al.|[2603.11813](http://arxiv.org/abs/2603.11813)|null|
 |**2026-03-12**|**OSM-based Domain Adaptation for Remote Sensing VLMs**|Stefan Maria Ailuro et.al.|[2603.11804](http://arxiv.org/abs/2603.11804)|null|
@@ -2684,6 +2722,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-12**|**DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning**|Yujie Wei et.al.|[2603.12257](http://arxiv.org/abs/2603.12257)|null|
+|**2026-03-12**|**EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models**|Xuanlang Dai et.al.|[2603.12252](http://arxiv.org/abs/2603.12252)|null|
+|**2026-03-12**|**DVD: Deterministic Video Depth Estimation with Generative Priors**|Hongfei Zhang et.al.|[2603.12250](http://arxiv.org/abs/2603.12250)|null|
+|**2026-03-12**|**BiGain: Unified Token Compression for Joint Generation and Classification**|Jiacheng Liu et.al.|[2603.12240](http://arxiv.org/abs/2603.12240)|null|
+|**2026-03-12**|**Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration**|Priyanka Kargupta et.al.|[2603.12226](http://arxiv.org/abs/2603.12226)|null|
 |**2026-03-12**|**Breaching the Barrier: Transition Pathways of Coral Larval Connectivity Across the Eastern Pacific**|Maria Olascoaga et.al.|[2603.12111](http://arxiv.org/abs/2603.12111)|null|
 |**2026-03-12**|**Coarse-Guided Visual Generation via Weighted h-Transform Sampling**|Yanghao Wang et.al.|[2603.12057](http://arxiv.org/abs/2603.12057)|null|
 |**2026-03-12**|**Frequentist Consistency of Prior-Data Fitted Networks for Causal Inference**|Valentyn Melnychuk et.al.|[2603.12037](http://arxiv.org/abs/2603.12037)|null|
