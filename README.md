@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**Towards Spatio-Temporal World Scene Graph Generation from Monocular Videos**|Rohith Peddi et.al.|[2603.13185](http://arxiv.org/abs/2603.13185)|null|
 |**2026-03-13**|**NOIR: Neural Operator mapping for Implicit Representations**|Sidaty El Hadramy et.al.|[2603.13118](http://arxiv.org/abs/2603.13118)|null|
 |**2026-03-13**|**RUNNs: Ritz-Uzawa Neural Networks for Solving Variational Problems**|Pablo Herrera et.al.|[2603.12982](http://arxiv.org/abs/2603.12982)|null|
 |**2026-03-13**|**Surrogates for Physics-based and Data-driven Modelling of Parametric Systems: Review and New Perspectives**|Matteo Giacomini et.al.|[2603.12870](http://arxiv.org/abs/2603.12870)|null|
@@ -1007,6 +1008,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**Magnetotransport in the presence of real and momentum space topology**|Azaz Ahmad et.al.|[2603.13229](http://arxiv.org/abs/2603.13229)|null|
+|**2026-03-13**|**First-principles predictions of band alignment in strained Si/Si1-xGex and Ge/Si1-xGex heterostructures**|Nathaniel M. Vegh et.al.|[2603.13219](http://arxiv.org/abs/2603.13219)|null|
+|**2026-03-13**|**A Spatial Localizer for Electrons in Insulators**|Haylen Gerhard et.al.|[2603.13206](http://arxiv.org/abs/2603.13206)|null|
+|**2026-03-13**|**Microscopic flexoelectricity in the canonical PMN relaxor**|J. Hlinka et.al.|[2603.13202](http://arxiv.org/abs/2603.13202)|null|
+|**2026-03-13**|**Inverse Faraday Effect in Rashba two-dimensional electron systems: interplay of spin and orbital effects**|Jaglul Hasan et.al.|[2603.13187](http://arxiv.org/abs/2603.13187)|null|
 |**2026-03-13**|**When Dark Energy Turns On: Constraints on a Critical Emergence Model**|Mahdi Najafi et.al.|[2603.13137](http://arxiv.org/abs/2603.13137)|null|
 |**2026-03-13**|**Nested Feature Spectrum Topology: Tripartite Topological Equivalence of Feature, Entanglement, and Wilson Loop Spectrum**|Yi-Chun Hung et.al.|[2603.13128](http://arxiv.org/abs/2603.13128)|null|
 |**2026-03-13**|**Universal monitored dynamics in multimode bosonic systems**|Shivam Patel et.al.|[2603.13125](http://arxiv.org/abs/2603.13125)|null|
@@ -1381,6 +1387,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**Anisotropic Inviscid Limit for the Navier-Stokes Equations with Transport Noise Between Two Plates**|Daniel Goodair et.al.|[2603.13199](http://arxiv.org/abs/2603.13199)|null|
 |**2026-03-13**|**Comprehensive full-f drift-kinetic and delta-f gyrokinetic simulations of a linear plasma device based on the gyro-moment approach**|Jacob Emil Mencke et.al.|[2603.13123](http://arxiv.org/abs/2603.13123)|null|
 |**2026-03-13**|**Signatures of Reconnection and a Split Heliospheric Tail in High-Energy Energetic Neutral Atoms**|M. Kornbleuth et.al.|[2603.13088](http://arxiv.org/abs/2603.13088)|null|
 |**2026-03-13**|**The Reynolds-Averaged Vortex Force Map Method**|Matteo Liguori et.al.|[2603.13078](http://arxiv.org/abs/2603.13078)|null|
@@ -1746,6 +1753,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**A 2% determination of $N_{\rm eff}$ from primordial element abundance, cosmic microwave background, and baryon acoustic oscillation measurements**|Samuel Goldstein et.al.|[2603.13226](http://arxiv.org/abs/2603.13226)|null|
+|**2026-03-13**|**First measurement of time-dependent $CP$ violation in the decay flavor-changing neutral-current decay $B^{0}\rightarrow K_{S}^{0}μ^{+}μ^{-}$**|LHCb collaboration et.al.|[2603.13223](http://arxiv.org/abs/2603.13223)|null|
+|**2026-03-13**|**Challenging the Weak Cosmic Censorship with Phantom Fields**|Giovanni Caridi et.al.|[2603.13210](http://arxiv.org/abs/2603.13210)|null|
+|**2026-03-13**|**Negative Masses and Spatial Curvature: Alleviating Neutrino Mass Tensions in LambdaCDM and Extended Cosmologies**|Hayyim Pulido-Hernández et.al.|[2603.13208](http://arxiv.org/abs/2603.13208)|null|
+|**2026-03-13**|**A Commensal Radio-Only Cosmic Ray Detector at the Owens Valley Radio Observatory Long Wavelength Array**|Kathryn A. Plant et.al.|[2603.13205](http://arxiv.org/abs/2603.13205)|null|
+|**2026-03-13**|**Axion search with telescope for radio astronomy (ASTRA): forecast for observations between 0.5 and 4~GHz**|Utkarsh Bhura et.al.|[2603.13194](http://arxiv.org/abs/2603.13194)|null|
+|**2026-03-13**|**Radiative return meets GVMD**|Pau Petit Rosàs et.al.|[2603.13171](http://arxiv.org/abs/2603.13171)|null|
 |**2026-03-13**|**Determination of Nuclear PDFs using Markov Chain Monte Carlo Methods**|N. Derakhshanian et.al.|[2603.13150](http://arxiv.org/abs/2603.13150)|null|
 |**2026-03-13**|**Charge-Carrier transport simulations in diamond detectors with electric-field-dependent mobility and charge-collection-distance-based trapping**|Faiz Rahman Ishaqzai et.al.|[2603.13146](http://arxiv.org/abs/2603.13146)|null|
 |**2026-03-13**|**Conformal Vacuum of dS $_4\times \mathbb R$ with Oppositely Oriented Boundaries**|Lucas K. Kovalsky et.al.|[2603.13145](http://arxiv.org/abs/2603.13145)|null|
@@ -2122,6 +2136,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**A 2% determination of $N_{\rm eff}$ from primordial element abundance, cosmic microwave background, and baryon acoustic oscillation measurements**|Samuel Goldstein et.al.|[2603.13226](http://arxiv.org/abs/2603.13226)|null|
+|**2026-03-13**|**Comparison of Cross-Correlation Methods for Line Intensity Mapping**|Samuel H. Kramer et.al.|[2603.13218](http://arxiv.org/abs/2603.13218)|null|
+|**2026-03-13**|**Challenging the Weak Cosmic Censorship with Phantom Fields**|Giovanni Caridi et.al.|[2603.13210](http://arxiv.org/abs/2603.13210)|null|
+|**2026-03-13**|**Negative Masses and Spatial Curvature: Alleviating Neutrino Mass Tensions in LambdaCDM and Extended Cosmologies**|Hayyim Pulido-Hernández et.al.|[2603.13208](http://arxiv.org/abs/2603.13208)|null|
+|**2026-03-13**|**A Commensal Radio-Only Cosmic Ray Detector at the Owens Valley Radio Observatory Long Wavelength Array**|Kathryn A. Plant et.al.|[2603.13205](http://arxiv.org/abs/2603.13205)|null|
+|**2026-03-13**|**Optimising Foreground Modelling for Global 21cm Cosmology with GPU-Accelerated Nested Sampling**|Jacob L. Tutt et.al.|[2603.13196](http://arxiv.org/abs/2603.13196)|null|
+|**2026-03-13**|**Euclid preparation. Far-infrared predictions for Euclid galaxy catalogues: cluster, protocluster, and field**|Euclid Collaboration et.al.|[2603.13195](http://arxiv.org/abs/2603.13195)|null|
+|**2026-03-13**|**Axion search with telescope for radio astronomy (ASTRA): forecast for observations between 0.5 and 4~GHz**|Utkarsh Bhura et.al.|[2603.13194](http://arxiv.org/abs/2603.13194)|null|
+|**2026-03-13**|**Clustering Astronomical Orbital Synthetic Data Using Advanced Feature Extraction and Dimensionality Reduction Techniques**|Eraldo Pereira Marinho et.al.|[2603.13177](http://arxiv.org/abs/2603.13177)|null|
+|**2026-03-13**|**Ortho-Para Chemistry of H2CO in the Protoplanetary Disk TW Hya**|M. Gaillard et.al.|[2603.13172](http://arxiv.org/abs/2603.13172)|null|
 |**2026-03-13**|**exoALMA XX: Tomographic Detection of Embedded Planets in Protoplanetary Disks**|Andres F. Izquierdo et.al.|[2603.13157](http://arxiv.org/abs/2603.13157)|null|
 |**2026-03-13**|**exoALMA XXIII. Estimating Disk and Planet Properties from Dust Morphologies with DBNets2.0**|Alessandro Ruzza et.al.|[2603.13149](http://arxiv.org/abs/2603.13149)|null|
 |**2026-03-13**|**Euclid preparation. Simulated galaxy catalogues for non-standard cosmological models**|Euclid Collaboration et.al.|[2603.13148](http://arxiv.org/abs/2603.13148)|null|
@@ -2796,6 +2820,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**|Yangsong Zhang et.al.|[2603.13228](http://arxiv.org/abs/2603.13228)|null|
 |**2026-03-13**|**Reinforcement Learning for Discounted and Ergodic Control of Diffusion Processes**|Erhan Bayraktar et.al.|[2603.13155](http://arxiv.org/abs/2603.13155)|null|
 |**2026-03-13**|**Determination of Nuclear PDFs using Markov Chain Monte Carlo Methods**|N. Derakhshanian et.al.|[2603.13150](http://arxiv.org/abs/2603.13150)|null|
 |**2026-03-13**|**InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing**|Yebin Yang et.al.|[2603.13082](http://arxiv.org/abs/2603.13082)|null|
