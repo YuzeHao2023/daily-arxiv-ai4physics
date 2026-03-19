@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**State-dependent temperature control in Langevin diffusions using numerical exploratory Hamiltonian-Jacobi-Bellman equations**|Taorui Wang et.al.|[2603.17934](http://arxiv.org/abs/2603.17934)|null|
+|**2026-03-18**|**RHYME-XT: A Neural Operator for Spatiotemporal Control Systems**|Marijn Ruiter et.al.|[2603.17867](http://arxiv.org/abs/2603.17867)|null|
+|**2026-03-18**|**Physics-Aware Machine Learning for Seismic and Volcanic Signal Interpretation**|William Thorossian et.al.|[2603.17855](http://arxiv.org/abs/2603.17855)|null|
+|**2026-03-18**|**A Continuous-Variable Quantum Fourier Layer: Applications to Filtering and PDE Solving**|Paolo Marcandelli et.al.|[2603.17847](http://arxiv.org/abs/2603.17847)|null|
+|**2026-03-18**|**Verification and Validation of Physics-Informed Surrogate Component Models for Dynamic Power-System Simulation**|Petros Ellinas et.al.|[2603.17836](http://arxiv.org/abs/2603.17836)|null|
+|**2026-03-18**|**Symmetry-Reduced Physics-Informed Learning of Tensegrity Dynamics**|Jing Qin et.al.|[2603.17824](http://arxiv.org/abs/2603.17824)|null|
+|**2026-03-18**|**Anisotropic Permeability Tensor Prediction from Porous Media Microstructure via Physics-Informed Progressive Transfer Learning with Hybrid CNN-Transformer**|Mohammad Nooraiepour et.al.|[2603.17532](http://arxiv.org/abs/2603.17532)|null|
 |**2026-03-18**|**Translation Invariance of Neural Operators for the FitzHugh-Nagumo Model**|Luca Pellegrini et.al.|[2603.17523](http://arxiv.org/abs/2603.17523)|null|
 |**2026-03-18**|**Gesture-Aware Pretraining and Token Fusion for 3D Hand Pose Estimation**|Rui Hong et.al.|[2603.17396](http://arxiv.org/abs/2603.17396)|null|
 |**2026-03-17**|**Abstraction as a Memory-Efficient Inductive Bias for Continual Learning**|Elnaz Rahmati et.al.|[2603.17198](http://arxiv.org/abs/2603.17198)|null|
@@ -338,6 +345,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Actionable Recourse in Competitive Environments: A Dynamic Game of Endogenous Selection**|Ya-Ting Yang et.al.|[2603.17907](http://arxiv.org/abs/2603.17907)|null|
+|**2026-03-18**|**On the spectral gap conjecture for pairs in SU(2)**|Oleg Pikhurko et.al.|[2603.17869](http://arxiv.org/abs/2603.17869)|null|
+|**2026-03-18**|**RHYME-XT: A Neural Operator for Spatiotemporal Control Systems**|Marijn Ruiter et.al.|[2603.17867](http://arxiv.org/abs/2603.17867)|null|
+|**2026-03-18**|**Decay of correlations and zeros for the hard-core model**|Han Peters et.al.|[2603.17858](http://arxiv.org/abs/2603.17858)|null|
+|**2026-03-18**|**Koopman Generator Decomposition for Port-Hamiltonian System**|Victor M. Preciado et.al.|[2603.17849](http://arxiv.org/abs/2603.17849)|null|
+|**2026-03-18**|**A Continuous-Variable Quantum Fourier Layer: Applications to Filtering and PDE Solving**|Paolo Marcandelli et.al.|[2603.17847](http://arxiv.org/abs/2603.17847)|null|
+|**2026-03-18**|**Hamiltonian Simulation and Linear Combination of Unitary Decomposition of Structured Matrices**|Robin Ollive et.al.|[2603.17816](http://arxiv.org/abs/2603.17816)|null|
+|**2026-03-18**|**Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems**|Qi Liu et.al.|[2603.17750](http://arxiv.org/abs/2603.17750)|null|
+|**2026-03-18**|**Automated Grammar-based Algebraic Multigrid Design With Evolutionary Algorithms**|Dinesh Parthasarathy et.al.|[2603.17641](http://arxiv.org/abs/2603.17641)|null|
+|**2026-03-18**|**On the validity limits of the parametrisation method for invariant manifolds: an assessment of practical criteria for vibrating systems**|André de Figueiredo Stabile et.al.|[2603.17611](http://arxiv.org/abs/2603.17611)|null|
 |**2026-03-18**|**Translation Invariance of Neural Operators for the FitzHugh-Nagumo Model**|Luca Pellegrini et.al.|[2603.17523](http://arxiv.org/abs/2603.17523)|null|
 |**2026-03-18**|**Study of Meta-Fibonacci Integer Sequences by Continuous Self-Referential Functional Equations**|Klaus Pinn et.al.|[2603.17509](http://arxiv.org/abs/2603.17509)|null|
 |**2026-03-18**|**A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**|Xiucheng Wang et.al.|[2603.17499](http://arxiv.org/abs/2603.17499)|null|
@@ -753,6 +770,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Beyond VQE and QPE: A Noise- and Sampling-Error-Tolerant Quantum Algorithm with Heisenberg-Limited Precision**|Qing-Xing Xie et.al.|[2603.17953](http://arxiv.org/abs/2603.17953)|null|
+|**2026-03-18**|**Efficient Quantum Algorithm for Solving Linear Distributed Delay Differential Equations**|Wataru Setoyama et.al.|[2603.17941](http://arxiv.org/abs/2603.17941)|null|
+|**2026-03-18**|**Toward bootstrapping tensor-network contractions**|Seishiro Ono et.al.|[2603.17856](http://arxiv.org/abs/2603.17856)|null|
+|**2026-03-18**|**A Continuous-Variable Quantum Fourier Layer: Applications to Filtering and PDE Solving**|Paolo Marcandelli et.al.|[2603.17847](http://arxiv.org/abs/2603.17847)|null|
+|**2026-03-18**|**Rigorous derivation of an effective model for periodic Schrödinger equations with linear band crossing of Dirac type**|Elena Danesi et.al.|[2603.17747](http://arxiv.org/abs/2603.17747)|null|
+|**2026-03-18**|**Fast stabilizer state preparation via AI-optimized graph decimation**|Michael Doherty et.al.|[2603.17743](http://arxiv.org/abs/2603.17743)|null|
+|**2026-03-18**|**TENSO: Software Package for Numerically Exact Open Quantum Dynamics Based on Efficient Tree Tensor Network Decomposition of the Hierarchical Equations of Motion**|Juan C. Rodriguez Betancourt et.al.|[2603.17711](http://arxiv.org/abs/2603.17711)|null|
 |**2026-03-18**|**Asymptotic linear stability of columnar vortices driven by Coriolis force**|Shuang Miao et.al.|[2603.17268](http://arxiv.org/abs/2603.17268)|null|
 |**2026-03-17**|**Full-quantum variational dynamics simulation for time-dependent Hamiltonians with global spectral discretization**|Minchen Qiao et.al.|[2603.17062](http://arxiv.org/abs/2603.17062)|null|
 |**2026-03-17**|**Kinematic Emergence of the Page Curve in a Local Transverse-Field Ising Model**|Samuel J. W. Jones et.al.|[2603.17000](http://arxiv.org/abs/2603.17000)|null|
@@ -1118,6 +1142,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Asymptotics of superfluid Bjorken flow**|Alexander Soloviev et.al.|[2603.17985](http://arxiv.org/abs/2603.17985)|null|
+|**2026-03-18**|**Non-Fermi-liquid behaviour of electrons coupled to gauge phonons**|Rutvij Gholap et.al.|[2603.17937](http://arxiv.org/abs/2603.17937)|null|
+|**2026-03-18**|**Thermodynamic Discovery of Tetracriticality and Emergent Multicomponent Superconductivity in UTe $_2$**|Sahas Kamat et.al.|[2603.17905](http://arxiv.org/abs/2603.17905)|null|
+|**2026-03-18**|**Mechanistic Insights into Enhanced Alkaline Oxygen Evolution on Zn-Al Alloy Electrodes**|Abdul Ahad Mamun et.al.|[2603.17904](http://arxiv.org/abs/2603.17904)|null|
+|**2026-03-18**|**Strongly entangled Quantum Spin Rings driven by Hückel rule**|Manish Kumar et.al.|[2603.17854](http://arxiv.org/abs/2603.17854)|null|
+|**2026-03-18**|**Pressure-induced Superconductivity in AgSbTe2**|Sudaice Kazibwe et.al.|[2603.17846](http://arxiv.org/abs/2603.17846)|null|
+|**2026-03-18**|**Hamiltonian Monte Carlo enhanced by Exact Diagonalization**|Finn L. Temmen et.al.|[2603.17788](http://arxiv.org/abs/2603.17788)|null|
+|**2026-03-18**|**Magneto-rotation coupling dominates surface acoustic wave driven ferromagnetic resonance in the longitudinal geometry**|Gyuyoung Park et.al.|[2603.17758](http://arxiv.org/abs/2603.17758)|null|
+|**2026-03-18**|**Strain-driven spin mixing and dark-exciton recombination in a neutral Ni2+ doped quantum dot**|K. E. Polczynska et.al.|[2603.17752](http://arxiv.org/abs/2603.17752)|null|
+|**2026-03-18**|**Electron-Hole Scattering Dichotomy and Anisotropic Warping in Quasi-Two-Dimensional Fermi Surfaces of UTe2**|Motoi Kimata et.al.|[2603.17710](http://arxiv.org/abs/2603.17710)|null|
 |**2026-03-18**|**Information-Geometric Signatures from Nonextensivity in the $1$ -D Blume-Capel Model**|Amijit Bhattacharjee et.al.|[2603.17483](http://arxiv.org/abs/2603.17483)|null|
 |**2026-03-18**|**Polarization-Aligned, Spectrally Consistent Quantum Emitters in As-Exfoliated Carbon-Doped Hexagonal Boron Nitride**|Sofiya Karankova et.al.|[2603.17440](http://arxiv.org/abs/2603.17440)|null|
 |**2026-03-18**|**Symmetry-Enforced Nodal $f$ -Wave Magnets**|Hirschmann Moritz M. et.al.|[2603.17406](http://arxiv.org/abs/2603.17406)|null|
@@ -1547,6 +1581,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**A Convex Formulation of the Multi-Commodity Dynamic Traffic Assignment**|Davide Sipione et.al.|[2603.17981](http://arxiv.org/abs/2603.17981)|null|
+|**2026-03-18**|**Radiative GRMHD simulations of puffy accretion discs: Numerical versus analytical models of sub-Eddington accretion**|Debora Lančová et.al.|[2603.17922](http://arxiv.org/abs/2603.17922)|null|
+|**2026-03-18**|**Decoupled Divergence-Free Neural Networks Basis Method for Incompressible Fluid Problems**|Jinbao Cheng et.al.|[2603.17906](http://arxiv.org/abs/2603.17906)|null|
+|**2026-03-18**|**A Deterministic Ionization Algorithm for the OSIRIS Particle-in-Cell Framework**|Stephen DiIorio et.al.|[2603.17885](http://arxiv.org/abs/2603.17885)|null|
+|**2026-03-18**|**Compressive Structures in the Foreshock of Collisionless Shocks**|Savvas Raptis et.al.|[2603.17882](http://arxiv.org/abs/2603.17882)|null|
+|**2026-03-18**|**Enabling Real-Time Programmability for RAN Functions: A Wasm-Based Approach for Robust and High-Performance dApps**|João Paulo Esper et.al.|[2603.17880](http://arxiv.org/abs/2603.17880)|null|
+|**2026-03-18**|**Kinetic-based macro-modeling of the solar wind at large heliocentric distances: Kappa electrons at the exobase**|Alexander Vinogradov et.al.|[2603.17877](http://arxiv.org/abs/2603.17877)|null|
+|**2026-03-18**|**On the size of gluon occupancies in saturation**|A. H. Mueller et.al.|[2603.17791](http://arxiv.org/abs/2603.17791)|null|
+|**2026-03-18**|**Quantitative Stability for Minkowski's problem**|Károly Böröczky et.al.|[2603.17726](http://arxiv.org/abs/2603.17726)|null|
+|**2026-03-18**|**Dielectric response and structural properties of finite-temperature electron liquids**|Chengliang Lin et.al.|[2603.17699](http://arxiv.org/abs/2603.17699)|null|
 |**2026-03-18**|**Maximum-Projection-Based Bayesian Optimization Utilizing Sensitivity Analysis for High-Efficiency Radial Turbine Design with Scarce Data**|Eric Diehl et.al.|[2603.17516](http://arxiv.org/abs/2603.17516)|null|
 |**2026-03-18**|**DustNET: enabling machine learning and AI models of dusty plasmas**|Zhehui Wang et.al.|[2603.17493](http://arxiv.org/abs/2603.17493)|null|
 |**2026-03-18**|**Low-dimensional geometry learning for turbulence prediction in optimized stellarators**|Xishuo Wei et.al.|[2603.17366](http://arxiv.org/abs/2603.17366)|null|
@@ -1962,6 +2006,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Embedding light dark matter and small neutrino mass in the flipped standard model**|D. T. Huong et.al.|[2603.17994](http://arxiv.org/abs/2603.17994)|null|
+|**2026-03-18**|**Asymptotics of superfluid Bjorken flow**|Alexander Soloviev et.al.|[2603.17985](http://arxiv.org/abs/2603.17985)|null|
+|**2026-03-18**|**CaRBM: A Fixed-Depth Quantum Algorithm with Partial Correction for Thermal State Preparation**|Omar Alsheikh et.al.|[2603.17971](http://arxiv.org/abs/2603.17971)|null|
+|**2026-03-18**|**Measurement of coherent elastic neutrino nucleus scattering on germanium by COHERENT**|M. Adhikari et.al.|[2603.17951](http://arxiv.org/abs/2603.17951)|null|
+|**2026-03-18**|**The full strong coupling expansion of the cusp anomalous dimension**|Zoltan Bajnok et.al.|[2603.17943](http://arxiv.org/abs/2603.17943)|null|
+|**2026-03-18**|**Noise-Aware Misclassification Attack Detection in Collaborative DNN Inference**|Shima Yousefi et.al.|[2603.17914](http://arxiv.org/abs/2603.17914)|null|
+|**2026-03-18**|**The ABCs of Amplitudes, Bogoliubov and Crossing**|Rafael Aoude et.al.|[2603.17903](http://arxiv.org/abs/2603.17903)|null|
+|**2026-03-18**|**$K π$ scattering as a step towards $B \to K^* \ell^+ \ell^-$ from Lattice QCD**|Felix Erben et.al.|[2603.17900](http://arxiv.org/abs/2603.17900)|null|
+|**2026-03-18**|**Universal scaling of transport coefficients near the liquid-gas critical point**|Johannes V. Roth et.al.|[2603.17874](http://arxiv.org/abs/2603.17874)|null|
+|**2026-03-18**|**Discrete Dyson-Schwinger equations**|Marco Frasca et.al.|[2603.17860](http://arxiv.org/abs/2603.17860)|null|
 |**2026-03-18**|**Pseudoscalar and vector toponia in a Dyson--Schwinger--Bethe--Salpeter framework**|H. -R. Zhang et.al.|[2603.17503](http://arxiv.org/abs/2603.17503)|null|
 |**2026-03-18**|**A Continuum Schwinger Method to Study the Pion's Generalized Parton Distribution**|J. M. Morgado-Chávez et.al.|[2603.17496](http://arxiv.org/abs/2603.17496)|null|
 |**2026-03-18**|**Natura Non Facit Saltum: An Analytical Model of Smooth Slow-Roll to Ultra-Slow-Roll Transition**|Diego Cruces et.al.|[2603.17465](http://arxiv.org/abs/2603.17465)|null|
@@ -2395,6 +2449,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Self-Limited Accretion onto Embedded Binaries in a Uniform Medium**|Marcus DuPont et.al.|[2603.17999](http://arxiv.org/abs/2603.17999)|null|
+|**2026-03-18**|**Embedding light dark matter and small neutrino mass in the flipped standard model**|D. T. Huong et.al.|[2603.17994](http://arxiv.org/abs/2603.17994)|null|
+|**2026-03-18**|**On the Astrophysical Origin of Binary Black Hole Subpopulations: A Tale of Three Channels?**|Anarya Ray et.al.|[2603.17987](http://arxiv.org/abs/2603.17987)|null|
+|**2026-03-18**|**Observational Signatures of Exact Black Hole Solutions in a Dark Matter Halo**|Azalbek Boltaev et.al.|[2603.17986](http://arxiv.org/abs/2603.17986)|null|
+|**2026-03-18**|**Characterization of molecular outflows at core-scale in the massive clump AGAL G345.0029-0.224**|E. Cohen Arazi et.al.|[2603.17976](http://arxiv.org/abs/2603.17976)|null|
+|**2026-03-18**|**JWST Reveals Two Overmassive Black Hole Candidates in Dwarf Galaxies at z $\approx$ 0.7: Pushing Black Hole Searches into the Dwarf-Galaxy Regime**|E. Iani et.al.|[2603.17967](http://arxiv.org/abs/2603.17967)|null|
+|**2026-03-18**|**Low Energy Phonon Bursts Created By Fast Neutron Damage**|A. Armatol et.al.|[2603.17964](http://arxiv.org/abs/2603.17964)|null|
+|**2026-03-18**|**The chemical DNA of the Magellanic Clouds VI. Origin and evolution of neutron-capture elements in the SMC**|Marco Palla et.al.|[2603.17963](http://arxiv.org/abs/2603.17963)|null|
+|**2026-03-18**|**The efficient delivery of highly-siderophile elements to the core creates a mass accretion catastrophe for the Earth**|Richard J. Anslow et.al.|[2603.17961](http://arxiv.org/abs/2603.17961)|null|
+|**2026-03-18**|**Simulations of a 2 x 1.5D coded aperture camera for X-ray astronomy**|J. J. M. in 't Zand et.al.|[2603.17938](http://arxiv.org/abs/2603.17938)|null|
 |**2026-03-18**|**VERITAS Observations Contemporaneous with the LHAASO Detection of NGC 4278**|The VERITAS Collaboration et.al.|[2603.17511](http://arxiv.org/abs/2603.17511)|null|
 |**2026-03-18**|**Optical transients from non-explosive double white-dwarf mergers: the case of a central neutron star remnant**|Ridha Fathima M. M. et.al.|[2603.17505](http://arxiv.org/abs/2603.17505)|null|
 |**2026-03-18**|**Tightening Cosmological Constraints Within and Beyond $Λ$ CDM Using Gamma-Ray Bursts Calibrated with Type Ia Supernovae**|Wei Hong et.al.|[2603.17500](http://arxiv.org/abs/2603.17500)|null|
@@ -2836,6 +2900,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Parameter-Efficient Modality-Balanced Symmetric Fusion for Multimodal Remote Sensing Semantic Segmentation**|Haocheng Li et.al.|[2603.17705](http://arxiv.org/abs/2603.17705)|null|
+|**2026-03-18**|**Does YOLO Really Need to See Every Training Image in Every Epoch?**|Xingxing Xie et.al.|[2603.17684](http://arxiv.org/abs/2603.17684)|null|
+|**2026-03-18**|**A Multi-Agent System for Building-Age Cohort Mapping to Support Urban Energy Planning**|Kundan Thota et.al.|[2603.17626](http://arxiv.org/abs/2603.17626)|null|
+|**2026-03-18**|**Prompt-Free Universal Region Proposal Network**|Qihong Tang et.al.|[2603.17554](http://arxiv.org/abs/2603.17554)|null|
+|**2026-03-18**|**MM-OVSeg:Multimodal Optical-SAR Fusion for Open-Vocabulary Segmentation in Remote Sensing**|Yimin Wei et.al.|[2603.17528](http://arxiv.org/abs/2603.17528)|null|
 |**2026-03-17**|**A Tug-of-War Between Baroclinic Eddies and Convection: Implications for Icy Moon Oceans**|Shuang Wang et.al.|[2603.17185](http://arxiv.org/abs/2603.17185)|null|
 |**2026-03-17**|**Significant Wave Height Estimation Incorporating Second-Order Scattering**|Senal Chandrasekara et.al.|[2603.17116](http://arxiv.org/abs/2603.17116)|null|
 |**2026-03-17**|**Implementation of tangent linear and adjoint models for neural networks based on a compiler library tool**|Sa Xiao et.al.|[2603.16976](http://arxiv.org/abs/2603.16976)|null|
@@ -3165,6 +3234,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Observational Signatures of Exact Black Hole Solutions in a Dark Matter Halo**|Azalbek Boltaev et.al.|[2603.17986](http://arxiv.org/abs/2603.17986)|null|
+|**2026-03-18**|**AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors**|Aymen Mir et.al.|[2603.17975](http://arxiv.org/abs/2603.17975)|null|
+|**2026-03-18**|**A practical artificial intelligence framework for legal age estimation using clavicle computed tomography scans**|Javier Venema et.al.|[2603.17926](http://arxiv.org/abs/2603.17926)|null|
+|**2026-03-18**|**Generative Control as Optimization: Time Unconditional Flow Matching for Adaptive and Robust Robotic Control**|Zunzhe Zhang et.al.|[2603.17834](http://arxiv.org/abs/2603.17834)|null|
+|**2026-03-18**|**TINA: Text-Free Inversion Attack for Unlearned Text-to-Image Diffusion Models**|Qianlong Xiang et.al.|[2603.17828](http://arxiv.org/abs/2603.17828)|null|
+|**2026-03-18**|**ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation**|Dmitriy Rivkin et.al.|[2603.17812](http://arxiv.org/abs/2603.17812)|null|
+|**2026-03-18**|**Dropout Robustness and Cognitive Profiling of Transformer Models via Stochastic Inference**|Antônio Junior Alves Caiado et.al.|[2603.17811](http://arxiv.org/abs/2603.17811)|null|
+|**2026-03-18**|**CrowdGaussian: Reconstructing High-Fidelity 3D Gaussians for Human Crowd from a Single Image**|Yizheng Song et.al.|[2603.17779](http://arxiv.org/abs/2603.17779)|null|
+|**2026-03-18**|**Towards Infinitely Long Neural Simulations: Self-Refining Neural Surrogate Models for Dynamical Systems**|Qi Liu et.al.|[2603.17750](http://arxiv.org/abs/2603.17750)|null|
+|**2026-03-18**|**TAPESTRY: From Geometry to Appearance via Consistent Turntable Videos**|Yan Zeng et.al.|[2603.17735](http://arxiv.org/abs/2603.17735)|null|
 |**2026-03-18**|**Proof-of-Authorship for Diffusion-based AI Generated Content**|De Zhang Lee et.al.|[2603.17513](http://arxiv.org/abs/2603.17513)|null|
 |**2026-03-18**|**A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awarenes**|Xiucheng Wang et.al.|[2603.17499](http://arxiv.org/abs/2603.17499)|null|
 |**2026-03-18**|**DustNET: enabling machine learning and AI models of dusty plasmas**|Zhehui Wang et.al.|[2603.17493](http://arxiv.org/abs/2603.17493)|null|
