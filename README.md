@@ -361,6 +361,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**The shifted bilinear Hilbert transform**|Lars Becker et.al.|[2603.20173](http://arxiv.org/abs/2603.20173)|null|
+|**2026-03-20**|**Certified Quantum Schrödinger Control via Hierarchical Tucker Models**|Nahid Binandeh Dehaghani et.al.|[2603.20168](http://arxiv.org/abs/2603.20168)|null|
+|**2026-03-20**|**Distributed State Estimation for Discrete-time LTI Systems: the Design Trilemma and a Novel Framework**|Ruixuan Zhao et.al.|[2603.20144](http://arxiv.org/abs/2603.20144)|null|
+|**2026-03-20**|**Transformer-based prediction of two-dimensional material electronic properties under elastic strain engineering**|Haoran Ma et.al.|[2603.20141](http://arxiv.org/abs/2603.20141)|null|
+|**2026-03-20**|**Cislunar State and Uncertainty Propagation via the Modified Generalized Equinoctial Orbital Elements**|Maaninee Gupta et.al.|[2603.20110](http://arxiv.org/abs/2603.20110)|null|
+|**2026-03-20**|**Koopman and transfer operator techniques from the perspective of quantum theory**|Dimitrios Giannakis et.al.|[2603.20102](http://arxiv.org/abs/2603.20102)|null|
 |**2026-03-20**|**Stability and limit theorems in random dynamical systems**|Davi Lima et.al.|[2603.19991](http://arxiv.org/abs/2603.19991)|null|
 |**2026-03-20**|**Interpreting Reinforcement Learning Model Behavior via Koopman with Control**|William T. Redman et.al.|[2603.19968](http://arxiv.org/abs/2603.19968)|null|
 |**2026-03-20**|**Structural Controllability of Large-Scale Hypergraphs**|Joshua Pickard et.al.|[2603.19955](http://arxiv.org/abs/2603.19955)|null|
@@ -816,6 +822,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Quantum inference on a classically trained quantum extreme learning machine**|Emanuele Brusaschi et.al.|[2603.20167](http://arxiv.org/abs/2603.20167)|null|
+|**2026-03-20**|**Analyzing Decoders for Quantum Error Correction**|Abtin Molavi et.al.|[2603.20127](http://arxiv.org/abs/2603.20127)|null|
+|**2026-03-20**|**Inference in high-dimensional logistic regression under tensor network dependence**|Josh Miles et.al.|[2603.20082](http://arxiv.org/abs/2603.20082)|null|
 |**2026-03-20**|**Stone-in-Waiting: A Cloud-Based Accelerator for the Quantum Approximate Optimization Algorithm**|Shuai Zeng et.al.|[2603.19980](http://arxiv.org/abs/2603.19980)|null|
 |**2026-03-20**|**Linear-optical generation of hybrid GKP entanglement from small-amplitude cat states**|Shohei Kiryu et.al.|[2603.19870](http://arxiv.org/abs/2603.19870)|null|
 |**2026-03-20**|**Existence, non-degeneracy and local uniqueness of multi-peak solutions to the fractional Schrödinger equation with nearly critical exponent in $\mathbb{R}^N$**|Yanyan Guo et.al.|[2603.19868](http://arxiv.org/abs/2603.19868)|null|
@@ -1207,6 +1216,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Prediction and Experimental Verification of Electrolyte Solvation Structure from an OMol25-Trained Interatomic Potential**|Nitesh Kumar et.al.|[2603.20183](http://arxiv.org/abs/2603.20183)|null|
+|**2026-03-20**|**Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder**|Ahmed Abuali et.al.|[2603.20157](http://arxiv.org/abs/2603.20157)|null|
+|**2026-03-20**|**Micromagnetic Modeling of Surface Acoustic Wave Driven Dynamics: Interplay of Strain, Magnetorotation, and Magnetic Anisotropy**|Florian Millo et.al.|[2603.20106](http://arxiv.org/abs/2603.20106)|null|
+|**2026-03-20**|**How Out-of-Equilibrium Phase Transitions can Seed Pattern Formation in Trained Diffusion Models**|Luca Ambrogioni et.al.|[2603.20092](http://arxiv.org/abs/2603.20092)|null|
+|**2026-03-20**|**$Δ_T$ Noise, Quantum Shot Noise, and Thermoelectric Clues to the Pairing Puzzle in Iron Pnictides**|A Rajmohan Dora et.al.|[2603.20069](http://arxiv.org/abs/2603.20069)|null|
 |**2026-03-20**|**How does ethane wet different substrates?**|Ł. Baran et.al.|[2603.20043](http://arxiv.org/abs/2603.20043)|null|
 |**2026-03-20**|**Pressure effects in the properties of simple monohydric alcohols. Lessons from molecular dynamics simulations of united atom type UAM-EW model**|M. Aguilar et.al.|[2603.20040](http://arxiv.org/abs/2603.20040)|null|
 |**2026-03-20**|**II. Temperature trends in the properties of simple monohydric alcohols. Molecular dynamics simulations of united atom UAMI-EW model**|M. Aguilar et.al.|[2603.20026](http://arxiv.org/abs/2603.20026)|null|
@@ -1675,6 +1689,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**An Agentic Multi-Agent Architecture for Cybersecurity Risk Management**|Ravish Gupta et.al.|[2603.20131](http://arxiv.org/abs/2603.20131)|null|
+|**2026-03-20**|**Control of the bootstrap current in approximately quasi-axisymmetric magnetic fields**|J. L. Velasco et.al.|[2603.20125](http://arxiv.org/abs/2603.20125)|null|
 |**2026-03-20**|**High order ghost-FEM for incompressible Navier-Stokes equations on moving domains**|Hridya Dilip et.al.|[2603.19928](http://arxiv.org/abs/2603.19928)|null|
 |**2026-03-20**|**Modeling subgrid scale production rates on complex meshes using graph neural networks**|Priyabrat Dash et.al.|[2603.19841](http://arxiv.org/abs/2603.19841)|null|
 |**2026-03-20**|**The logarithmic law of sample correlation matrices**|Yanpeng Li et.al.|[2603.19800](http://arxiv.org/abs/2603.19800)|null|
@@ -2126,6 +2142,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**AI Agents Can Already Autonomously Perform Experimental High Energy Physics**|Eric A. Moreno et.al.|[2603.20179](http://arxiv.org/abs/2603.20179)|null|
+|**2026-03-20**|**Charmonium-Glueball spectroscopy with improved hadron creation operators**|Juan Andrés Urrea-Niño et.al.|[2603.20178](http://arxiv.org/abs/2603.20178)|null|
+|**2026-03-20**|**Detecting the 3D Ising model phase transition with a ground-state-trained autoencoder**|Ahmed Abuali et.al.|[2603.20157](http://arxiv.org/abs/2603.20157)|null|
+|**2026-03-20**|**Entanglement metrics for $B$ Meson system**|Aashish Joshi et.al.|[2603.20154](http://arxiv.org/abs/2603.20154)|null|
+|**2026-03-20**|**Sterile neutrino Dark Matter in the minimal Dirac Seesaw**|J. Adhikary et.al.|[2603.20145](http://arxiv.org/abs/2603.20145)|null|
+|**2026-03-20**|**Combination of measurements of CP properties of Higgs boson interactions with vector bosons using proton-proton collisions at $\sqrt{s} = 13$ TeV with the ATLAS detector**|The ATLAS Collaboration et.al.|[2603.20117](http://arxiv.org/abs/2603.20117)|null|
+|**2026-03-20**|**On the phase structure of massless many-flavour QCD with staggered fermions**|Jan Philipp Klinger et.al.|[2603.20099](http://arxiv.org/abs/2603.20099)|null|
+|**2026-03-20**|**Interrogating the composition and distribution of nuclear magnetization via the hyperfine anomaly: experiment meets nuclear and atomic theory for short-lived $^{47}$ K**|M. L. Bissell et.al.|[2603.20090](http://arxiv.org/abs/2603.20090)|null|
+|**2026-03-20**|**Search for anomalies in vector-boson fusion production of the Higgs boson in $H(\rightarrow γγ) jj$ events using 164 fb$^{-1}$ of $pp$ collision data collected at $\sqrt{s}=13.6$ TeV with the ATLAS detector**|ATLAS Collaboration et.al.|[2603.20087](http://arxiv.org/abs/2603.20087)|null|
+|**2026-03-20**|**Giant graviton integrated correlators at finite coupling and all orders in $1/N$**|Augustus Brown et.al.|[2603.20083](http://arxiv.org/abs/2603.20083)|null|
 |**2026-03-20**|**Feasible Deviations from Unitarity with Vector-Like Quark Singlets**|Francisco Albergaria et.al.|[2603.20047](http://arxiv.org/abs/2603.20047)|null|
 |**2026-03-20**|**Can QCD Axions Survive the Cosmological Constant Problem?**|Carsten van de Bruck et.al.|[2603.20008](http://arxiv.org/abs/2603.20008)|null|
 |**2026-03-20**|**Model-Driven Learning-Based Physical Layer Authentication for Mobile Wi-Fi Devices**|Yijia Guo et.al.|[2603.19972](http://arxiv.org/abs/2603.19972)|null|
@@ -2599,6 +2625,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Galaxy sizes as complementary (zero-)bias tracers of local primordial non-Gaussianity**|Nhat-Minh Nguyen et.al.|[2603.20196](http://arxiv.org/abs/2603.20196)|null|
+|**2026-03-20**|**Improved constraint on the Hubble constant from dark sirens with LIGO/Virgo/KAGRA O4a**|V. Alfradique et.al.|[2603.20195](http://arxiv.org/abs/2603.20195)|null|
+|**2026-03-20**|**VINTERGATAN-GM: long-lived satellite planes induced by a massive GSE-like merger**|R. Rodríguez-Cardoso et.al.|[2603.20171](http://arxiv.org/abs/2603.20171)|null|
+|**2026-03-20**|**SPT-3G D1: Maps of the millimeter-wave sky from 2019 and 2020 observations of the SPT-3G Main field**|W. Quan et.al.|[2603.20163](http://arxiv.org/abs/2603.20163)|null|
+|**2026-03-20**|**Cosmological forecast from the full-sky angular power spectrum and bispectrum of 21cm intensity mapping**|Rodrigo F. Pinheiro et.al.|[2603.20160](http://arxiv.org/abs/2603.20160)|null|
+|**2026-03-20**|**Sterile neutrino Dark Matter in the minimal Dirac Seesaw**|J. Adhikary et.al.|[2603.20145](http://arxiv.org/abs/2603.20145)|null|
+|**2026-03-20**|**A New Multi-Constraint Potential Field Source Surface (PFSS) Extrapolation Model**|C. Antonio et.al.|[2603.20142](http://arxiv.org/abs/2603.20142)|null|
+|**2026-03-20**|**Theory of optical long-baseline interferometry on polarized sources**|Guy Perrin et.al.|[2603.20136](http://arxiv.org/abs/2603.20136)|null|
+|**2026-03-20**|**Numerically stable equations for the orbital evolution of compact object binaries**|Max M. Briel et.al.|[2603.20124](http://arxiv.org/abs/2603.20124)|null|
+|**2026-03-20**|**Early emission characterization of TDE2025aarm**|Andrea Simongini et.al.|[2603.20123](http://arxiv.org/abs/2603.20123)|null|
 |**2026-03-20**|**A Century of Radial Velocity and Astrometric Monitoring of 70 Oph AB: New PFS Data and Constraints on Planetary Companions**|Yiting Li et.al.|[2603.20044](http://arxiv.org/abs/2603.20044)|null|
 |**2026-03-20**|**Retrieving the Red Edge on Earth-like Planets with Heterogeneous Clouds and Surfaces**|Zachary Burr et.al.|[2603.20033](http://arxiv.org/abs/2603.20033)|null|
 |**2026-03-20**|**Analytical Solution of Spinning, Eccentric Binary Black Hole Dynamics at the Second Post-Newtonian Order**|Tom Colin et.al.|[2603.20031](http://arxiv.org/abs/2603.20031)|null|
@@ -3430,6 +3466,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation**|Jiazheng Xing et.al.|[2603.20192](http://arxiv.org/abs/2603.20192)|null|
+|**2026-03-20**|**Wildfire Spread Scenarios: Increasing Sample Diversity of Segmentation Diffusion Models with Training-Free Methods**|Sebastian Gerard et.al.|[2603.20188](http://arxiv.org/abs/2603.20188)|null|
+|**2026-03-20**|**AI Agents Can Already Autonomously Perform Experimental High Energy Physics**|Eric A. Moreno et.al.|[2603.20179](http://arxiv.org/abs/2603.20179)|null|
+|**2026-03-20**|**Semantic Token Clustering for Efficient Uncertainty Quantification in Large Language Models**|Qi Cao et.al.|[2603.20161](http://arxiv.org/abs/2603.20161)|null|
+|**2026-03-20**|**Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD**|Emiel Hoogeboom et.al.|[2603.20155](http://arxiv.org/abs/2603.20155)|null|
+|**2026-03-20**|**Revisiting Gene Ontology Knowledge Discovery with Hierarchical Feature Selection and Virtual Study Group of AI Agents**|Cen Wan et.al.|[2603.20132](http://arxiv.org/abs/2603.20132)|null|
+|**2026-03-20**|**Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture -- Bridging Predictive and Generative Self-Supervised Learning**|Moritz Gögl et.al.|[2603.20111](http://arxiv.org/abs/2603.20111)|null|
+|**2026-03-20**|**How Out-of-Equilibrium Phase Transitions can Seed Pattern Formation in Trained Diffusion Models**|Luca Ambrogioni et.al.|[2603.20092](http://arxiv.org/abs/2603.20092)|null|
+|**2026-03-20**|**Approximate posterior recalibration**|Tiffany Cai et.al.|[2603.20068](http://arxiv.org/abs/2603.20068)|null|
 |**2026-03-20**|**Timestep-Aware Block Masking for Efficient Diffusion Model Inference**|Haodong He et.al.|[2603.19939](http://arxiv.org/abs/2603.19939)|null|
 |**2026-03-20**|**Transformer Causality Regularization for Dynamic Inverse Problems**|Gesa Sarnighausen et.al.|[2603.19847](http://arxiv.org/abs/2603.19847)|null|
 |**2026-03-20**|**Uncertainty Quantification Via the Posterior Predictive Variance**|Sanjay Chaudhuri et.al.|[2603.19804](http://arxiv.org/abs/2603.19804)|null|
