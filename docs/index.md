@@ -2165,7 +2165,7 @@ layout: default
 |**2026-03-17**|**Spin entanglement signatures of proton from a light-front Hamiltonian**|Chen Qian et.al.|[2603.16681](http://arxiv.org/abs/2603.16681)|null|
 |**2026-03-17**|**BUSSARD: Normalizing Flows for Bijective Universal Scene-Specific Anomalous Relationship Detection**|Melissa Schween et.al.|[2603.16645](http://arxiv.org/abs/2603.16645)|null|
 |**2026-03-17**|**Role of $Ξ(1690)$ in the $J/ψ\toΞ^0\barΛK^0$ reaction**|Wen-Tao Lyu et.al.|[2603.16640](http://arxiv.org/abs/2603.16640)|null|
-|**2026-03-17**|**Measurement of the $|V_{cb}|$ element of the CKM matrix in $t\bar{t}$ decays with the ATLAS detector**|ATLAS Collaboration et.al.|[2603.16414](http://arxiv.org/abs/2603.16414)|null|
+|**2026-03-17**|**Measurement of the $|V_{cb}|$ element of the CKM matrix in $t\bar{t}$ decays with the ATLAS detector**|ATLAS Collaboration et.al.|
 |**2026-03-17**|**Effect of gravity on Neutrino Oscillations in $κ$ -deformed space-time**|Harsha Sreekumar et.al.|[2603.16381](http://arxiv.org/abs/2603.16381)|null|
 |**2026-03-17**|**Parameter Optimization of Domain-Wall Fermion using Machine Learning**|Shunsuke Yasunaga et.al.|[2603.16329](http://arxiv.org/abs/2603.16329)|null|
 |**2026-03-17**|**Puzzles in charmed baryon semileptonic decays**|Chao-Qiang Geng et.al.|[2603.16323](http://arxiv.org/abs/2603.16323)|null|
