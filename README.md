@@ -439,6 +439,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Loop-level surrogate modeling of dopant-distribution effects in Ba(Zr,Ti)O $_3$**|Heiko Röthl et.al.|[2604.02325](http://arxiv.org/abs/2604.02325)|null|
+|**2026-04-02**|**A Positivity-Preserving Relaxation Algorithm**|Thomas Izgin et.al.|[2604.02308](http://arxiv.org/abs/2604.02308)|null|
+|**2026-04-02**|**PARD-SSM: Probabilistic Cyber-Attack Regime Detection via Variational Switching State-Space Models**|Prakul Sunil Hiremath et.al.|[2604.02299](http://arxiv.org/abs/2604.02299)|null|
+|**2026-04-02**|**Model-Based Reinforcement Learning for Control under Time-Varying Dynamics**|Klemens Iten et.al.|[2604.02260](http://arxiv.org/abs/2604.02260)|null|
+|**2026-04-02**|**Analytic Optimal Control for a Class of Driftless x-Flat Systems**|Raphael Buchinger et.al.|[2604.02249](http://arxiv.org/abs/2604.02249)|null|
+|**2026-04-02**|**Kronecker Flow on the Infinite Torus**|Lorenzo Baroni et.al.|[2604.02213](http://arxiv.org/abs/2604.02213)|null|
 |**2026-04-02**|**Safe Control of Feedback-Interconnected Systems via Singular Perturbations**|Stefano Di Gregorio et.al.|[2604.02132](http://arxiv.org/abs/2604.02132)|null|
 |**2026-04-02**|**Local rigidity of self-joinings and factors of pro-nilsystems**|Pauwel Van Den Eeckhaut et.al.|[2604.02089](http://arxiv.org/abs/2604.02089)|null|
 |**2026-04-02**|**Collective attention under digital exposure: A dynamical systems approach**|Nuno Crokidakis et.al.|[2604.02059](http://arxiv.org/abs/2604.02059)|null|
@@ -1503,6 +1509,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Crystalite: A Lightweight Transformer for Efficient Crystal Modeling**|Tin Hadži Veljković et.al.|[2604.02270](http://arxiv.org/abs/2604.02270)|null|
+|**2026-04-02**|**Generalized Beth-Uhlenbeck Approach to the 2+1D Gross-Neveu Model**|Biplab Mahato et.al.|[2604.02246](http://arxiv.org/abs/2604.02246)|null|
+|**2026-04-02**|**Fluid perturbations from expanding bubbles in first-order phase transitions**|Chiara Caprini et.al.|[2604.02240](http://arxiv.org/abs/2604.02240)|null|
 |**2026-04-02**|**Jahn-Teller distortion on strained La $_3$Ni$_2$O$_7$ thin films**|Yuxin Wang et.al.|[2604.02191](http://arxiv.org/abs/2604.02191)|null|
 |**2026-04-02**|**Entropic crystallization of geometrically frustrated magnets on 1/1 approximant Tsai-type quasicrystal**|Oscar Novat et.al.|[2604.02180](http://arxiv.org/abs/2604.02180)|null|
 |**2026-04-02**|**Definitive Assessment of the Accuracy, Variationality, and Convergence of Relativistic Coupled Cluster and Density Matrix Renormalization Group in 100-Orbital Space**|Shiv Upadhyay et.al.|[2604.02144](http://arxiv.org/abs/2604.02144)|null|
@@ -2104,6 +2113,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**ReVAR: A Data-Driven Algorithm for Generating Aero-Optic Phase Screens**|Jeffrey W. Utley et.al.|[2604.02326](http://arxiv.org/abs/2604.02326)|null|
+|**2026-04-02**|**TensorPool: A 3D-Stacked 8.4TFLOPS/4.3W Many-Core Domain-Specific Processor for AI-Native Radio Access Networks**|Marco Bertuletti et.al.|[2604.02291](http://arxiv.org/abs/2604.02291)|null|
 |**2026-04-02**|**What can be computed in average anonymous networks?**|Joel Rybicki et.al.|[2604.02192](http://arxiv.org/abs/2604.02192)|null|
 |**2026-04-02**|**Simulations of internal kink modes and sawtooth crashes for SPARC baseline-like scenarios using the M3D-C1 code**|W. H. Wang et.al.|[2604.02172](http://arxiv.org/abs/2604.02172)|null|
 |**2026-04-02**|**Application of parametric Shallow Recurrent Decoder Network to magnetohydrodynamic flows in liquid metal blankets of fusion reactors**|M. Lo Verso et.al.|[2604.02139](http://arxiv.org/abs/2604.02139)|null|
@@ -2666,6 +2677,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection**|Alex Costanzino et.al.|[2604.02328](http://arxiv.org/abs/2604.02328)|null|
+|**2026-04-02**|**Steerable Visual Representations**|Jona Ruthardt et.al.|[2604.02327](http://arxiv.org/abs/2604.02327)|null|
+|**2026-04-02**|**Topological Effects in Neural Network Field Theory**|Christian Ferko et.al.|[2604.02313](http://arxiv.org/abs/2604.02313)|null|
+|**2026-04-02**|**Detecting Symmetry-Resolved Entanglement: A Quantum Monte Carlo Approach**|Kuangjie Chen et.al.|[2604.02307](http://arxiv.org/abs/2604.02307)|null|
+|**2026-04-02**|**Revealing the neutrino mass through persistent homology of the cosmic web**|Jiaqi Wang et.al.|[2604.02300](http://arxiv.org/abs/2604.02300)|null|
+|**2026-04-02**|**Recursive relations from diffeomorphism in the Randall-Sundrum model**|Haiying Cai et.al.|[2604.02294](http://arxiv.org/abs/2604.02294)|null|
+|**2026-04-02**|**Tensor invariants for multipartite entanglement classification**|Sylvain Carrozza et.al.|[2604.02269](http://arxiv.org/abs/2604.02269)|null|
+|**2026-04-02**|**Retrieval-Augmented Question Answering over Scientific Literature for the Electron-Ion Collider**|Tina. J. Jat et.al.|[2604.02259](http://arxiv.org/abs/2604.02259)|null|
+|**2026-04-02**|**Search for dark photons at future e $^+$e$^-$ colliders**|Mikael Berggren et.al.|[2604.02245](http://arxiv.org/abs/2604.02245)|null|
+|**2026-04-02**|**Fluid perturbations from expanding bubbles in first-order phase transitions**|Chiara Caprini et.al.|[2604.02240](http://arxiv.org/abs/2604.02240)|null|
 |**2026-04-02**|**Localized Steps toward ACT-Favored Inflation**|Kai-Ge Zhang et.al.|[2604.02148](http://arxiv.org/abs/2604.02148)|null|
 |**2026-04-02**|**A forward-angle large-acceptance magnetic spectrometer**|B. Wojtsekhowski et.al.|[2604.02136](http://arxiv.org/abs/2604.02136)|null|
 |**2026-04-02**|**Effective Field Theory for Superconducting Phase Transitions**|Yanyan Bu et.al.|[2604.02133](http://arxiv.org/abs/2604.02133)|null|
@@ -3279,6 +3300,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**Hot Rocks Survey V: Secondary Eclipse Photometry of GJ 3473 b with JWST/MIRI**|Måns Holmberg et.al.|[2604.02332](http://arxiv.org/abs/2604.02332)|null|
+|**2026-04-02**|**Magneto-Active Environments in Pulsar Binaries with the MeerKAT Telescope: I. Pulsar sample and their basic properties**|Jaikhomba Singha et.al.|[2604.02310](http://arxiv.org/abs/2604.02310)|null|
+|**2026-04-02**|**Revealing the neutrino mass through persistent homology of the cosmic web**|Jiaqi Wang et.al.|[2604.02300](http://arxiv.org/abs/2604.02300)|null|
+|**2026-04-02**|**X-ray Response of the Fully-Depleted, p-Channel SiSeRO-CCD**|Julian Cuevas-Zepeda et.al.|[2604.02272](http://arxiv.org/abs/2604.02272)|null|
+|**2026-04-02**|**GECAM discovery of a peculiar magnetar X-ray burst (MXB 221120) from SGR J1935+2154 associated with a fast radio burst**|Wen-Jun Tan et.al.|[2604.02261](http://arxiv.org/abs/2604.02261)|null|
+|**2026-04-02**|**Search for dark photons at future e $^+$e$^-$ colliders**|Mikael Berggren et.al.|[2604.02245](http://arxiv.org/abs/2604.02245)|null|
+|**2026-04-02**|**A research roadmap for assessing the feasibility of warming Mars**|E. S. Kite et.al.|[2604.02242](http://arxiv.org/abs/2604.02242)|null|
+|**2026-04-02**|**Fluid perturbations from expanding bubbles in first-order phase transitions**|Chiara Caprini et.al.|[2604.02240](http://arxiv.org/abs/2604.02240)|null|
+|**2026-04-02**|**Gravitational null rays: Covariant Quantization and the Dressing Time**|Laurent Freidel et.al.|[2604.02228](http://arxiv.org/abs/2604.02228)|null|
+|**2026-04-02**|**Consistency relations of amplitude and phase fluctuations of gravitational waves magnified by strong gravitational lensing**|Yuta Nakazono et.al.|[2604.02216](http://arxiv.org/abs/2604.02216)|null|
 |**2026-04-02**|**Non-minimally coupled quintessence with sign-switching interaction**|Jia-Qi Wang et.al.|[2604.02204](http://arxiv.org/abs/2604.02204)|null|
 |**2026-04-02**|**Axial gravitational perturbations and echo-like signals of a hairy black hole from gravitational decoupling**|Yi Yang et.al.|[2604.02164](http://arxiv.org/abs/2604.02164)|null|
 |**2026-04-02**|**SDSS J153231.80+420342.7: a triple black hole candidate with a close binary black hole**|Qi Zheng et.al.|[2604.02161](http://arxiv.org/abs/2604.02161)|null|
@@ -3900,6 +3931,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**A proposal for the safety and controllability requirements that SRM systems should meet**|E. Waxman et.al.|[2604.02283](http://arxiv.org/abs/2604.02283)|null|
 |**2026-04-02**|**Possible, Yes; Ignorant, Perhaps: A Scorecard for Possibilistic Forecasts**|John R. Lawson et.al.|[2604.02187](http://arxiv.org/abs/2604.02187)|null|
 |**2026-04-02**|**CoRegOVCD: Consistency-Regularized Open-Vocabulary Change Detection**|Weidong Tang et.al.|[2604.02160](http://arxiv.org/abs/2604.02160)|null|
 |**2026-04-02**|**Country-wide, high-resolution monitoring of forest browning with Sentinel-2**|Samantha Biegel et.al.|[2604.02074](http://arxiv.org/abs/2604.02074)|null|
@@ -4319,6 +4351,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-02**|**ActionParty: Multi-Subject Action Binding in Generative Video Games**|Alexander Pondaven et.al.|[2604.02330](http://arxiv.org/abs/2604.02330)|null|
+|**2026-04-02**|**Disentangled Deep Priors for Bayesian Inverse Problems**|Arkaprabha Ganguli et.al.|[2604.02304](http://arxiv.org/abs/2604.02304)|null|
+|**2026-04-02**|**VOID: Video Object and Interaction Deletion**|Saman Motamed et.al.|[2604.02296](http://arxiv.org/abs/2604.02296)|null|
+|**2026-04-02**|**Smoothing the Landscape: Causal Structure Learning via Diffusion Denoising Objectives**|Hao Zhu et.al.|[2604.02250](http://arxiv.org/abs/2604.02250)|null|
 |**2026-04-02**|**Neural network methods for two-dimensional finite-source reflector design**|Roel Hacking et.al.|[2604.02184](http://arxiv.org/abs/2604.02184)|null|
 |**2026-04-02**|**Reflection Generation for Composite Image Using Diffusion Model**|Haonan Zhao et.al.|[2604.02168](http://arxiv.org/abs/2604.02168)|null|
 |**2026-04-02**|**A new wavelet-based variational family with copula dependence structures**|Giovanni Piccirilli et.al.|[2604.02116](http://arxiv.org/abs/2604.02116)|null|
