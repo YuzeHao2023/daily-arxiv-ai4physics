@@ -462,6 +462,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability**|Akzhol Almukhametov et.al.|[2604.07292](http://arxiv.org/abs/2604.07292)|null|
 |**2026-04-08**|**Emergence of cooperation in nonlinear higher-order public goods games**|Jaume Llabrés et.al.|[2604.07228](http://arxiv.org/abs/2604.07228)|null|
 |**2026-04-08**|**An Inexact Trust-Region Method for Structured Nonsmooth Optimization with Application to Risk-Averse Stochastic Programming**|Drew P. Kouri et.al.|[2604.07216](http://arxiv.org/abs/2604.07216)|null|
 |**2026-04-08**|**Amortized Filtering and Smoothing with Conditional Normalizing Flows**|Tiangang Cui et.al.|[2604.07169](http://arxiv.org/abs/2604.07169)|null|
@@ -1088,6 +1089,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Interaction-Mediated Non-Reciprocal Dynamics in Open Quantum Systems: From an Exactly Solvable Model to Generic Behavior**|Pietro Borchia et.al.|[2604.07346](http://arxiv.org/abs/2604.07346)|null|
 |**2026-04-08**|**Improving Feasibility in Quantum Approximate Optimization Algorithm for Vehicle Routing via Constraint-Aware Initialization and Hybrid XY-X Mixing**|Yuan-Zheng Lei et.al.|[2604.07218](http://arxiv.org/abs/2604.07218)|null|
 |**2026-04-08**|**Tensor-network simulation of quantum transport in many-quantum-dot systems**|Maximilian Streitberger et.al.|[2604.06944](http://arxiv.org/abs/2604.06944)|null|
 |**2026-04-08**|**A Practical Introduction to Tensor Network Renormalization with TNRKit.jl**|Victor Vanthilt et.al.|[2604.06922](http://arxiv.org/abs/2604.06922)|null|
@@ -1602,6 +1604,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Interaction-Mediated Non-Reciprocal Dynamics in Open Quantum Systems: From an Exactly Solvable Model to Generic Behavior**|Pietro Borchia et.al.|[2604.07346](http://arxiv.org/abs/2604.07346)|null|
+|**2026-04-08**|**Explicit Electric Potential-Embedded Machine Learning Framework: A Unified Description from Atomic to Electronic Scales**|Jingwen Zhou et.al.|[2604.07322](http://arxiv.org/abs/2604.07322)|null|
+|**2026-04-08**|**Topological Magneto-Optical Switching in Even-Layered MnBi $_2$Te$_4$**|Shahid Sattar et.al.|[2604.07315](http://arxiv.org/abs/2604.07315)|null|
+|**2026-04-08**|**Rotation of the Transition Dipole in Single hBN Quantum Emitters via Vibronic Coupling**|Serkan Paçal et.al.|[2604.07314](http://arxiv.org/abs/2604.07314)|null|
+|**2026-04-08**|**$\mathbb Z_{2q}$ parafermionic hinge states in a three-dimensional array of coupled nanowires**|Sarthak Girdhar et.al.|[2604.07313](http://arxiv.org/abs/2604.07313)|null|
+|**2026-04-08**|**Symmetry-protected four double-Weyl fermions and their topological phase transitions in nonmagnetic crystals**|Yun-Yun Bai et.al.|[2604.07301](http://arxiv.org/abs/2604.07301)|null|
+|**2026-04-08**|**The Roberge-Weiss transition as a probe for conformality in many-flavor QCD**|Massimo D'Elia et.al.|[2604.07284](http://arxiv.org/abs/2604.07284)|null|
+|**2026-04-08**|**Two-dimensional shelving spectroscopy of ultraviolet ground state transitions in dysprosium**|Kevin S. H. Ng et.al.|[2604.07283](http://arxiv.org/abs/2604.07283)|null|
+|**2026-04-08**|**Making Room for AI: Multi-GPU Molecular Dynamics with Deep Potentials in GROMACS**|Luca Pennati et.al.|[2604.07276](http://arxiv.org/abs/2604.07276)|null|
 |**2026-04-08**|**Atomic-Scale Detection of Néel Vector Switching in the Single-Layer A-type Antiferromagnet Cr2S3-2D**|Affan Safeer et.al.|[2604.07245](http://arxiv.org/abs/2604.07245)|null|
 |**2026-04-08**|**Magnetoelastic Transport-Path Reconstruction and Giant Magnetotransport Responses in a Two-Dimensional Antiferromagnet**|Liu Yang et.al.|[2604.07208](http://arxiv.org/abs/2604.07208)|null|
 |**2026-04-08**|**Mixing times of step-reinforced random walks**|Yuval Peres et.al.|[2604.07207](http://arxiv.org/abs/2604.07207)|null|
@@ -2244,6 +2255,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Spectral Difference Method with a Posteriori Limiting: III- Navier-Stokes Equations with Arbitrary High-Order Accuracy**|David A. Velasco-Romero et.al.|[2604.07339](http://arxiv.org/abs/2604.07339)|null|
+|**2026-04-08**|**Phase-Selective Excitation of Betatron Oscillations by Nonadiabatic Magnetic-Field Switching**|R. S. Anandu et.al.|[2604.07305](http://arxiv.org/abs/2604.07305)|null|
+|**2026-04-08**|**Multiple Planted Structures Below $\sqrt{n}$ : An SoS Integrality Gap and an SQ Lower Bound**|Matvey Mosievskiy et.al.|[2604.07278](http://arxiv.org/abs/2604.07278)|null|
+|**2026-04-08**|**Some probabilistic properties and time-changed versions of a renewal process based on Mittag-Leffler waiting times**|Mostafizar Khandakar et.al.|[2604.07275](http://arxiv.org/abs/2604.07275)|null|
 |**2026-04-08**|**Viscous Bending Mitigates the Spontaneous Meandering of Rivulets in Hele-Shaw Cells**|Grégoire Le Lay et.al.|[2604.07222](http://arxiv.org/abs/2604.07222)|null|
 |**2026-04-08**|**Weighted averages of arithmetic functions and applications to equidistribution**|Vitaly Bergelson et.al.|[2604.07186](http://arxiv.org/abs/2604.07186)|null|
 |**2026-04-08**|**Cut Finite Element Methods for Convection-Diffusion in Mixed-Dimensional Domains**|Erik Burman et.al.|[2604.07162](http://arxiv.org/abs/2604.07162)|null|
@@ -2846,6 +2861,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**The BEF Symplectic Form: A Lagrangian Perspective**|Mohd Ali et.al.|[2604.07334](http://arxiv.org/abs/2604.07334)|null|
+|**2026-04-08**|**When waves meet rays: Seismic vibrations and cosmic showers to test gravity**|Aneta Wojnar et.al.|[2604.07333](http://arxiv.org/abs/2604.07333)|null|
+|**2026-04-08**|**Theoretical and Observational Bounds on Dynamical Chern-Simons Gravity as an Effective Field Theory**|Alexander Cassem et.al.|[2604.07332](http://arxiv.org/abs/2604.07332)|null|
+|**2026-04-08**|**Primordial magnetic fields in the light of upcoming post-EoR Lyman- $α$ and 21-cm observations**|Arko Bhaumik et.al.|[2604.07327](http://arxiv.org/abs/2604.07327)|null|
+|**2026-04-08**|**Analytic Approximations for Fermionic Preheating**|Heather E. Logan et.al.|[2604.07326](http://arxiv.org/abs/2604.07326)|null|
+|**2026-04-08**|**Constraining magnetic monopoles and multiply charged particles with diphoton events at the LHC**|Vasiliki A. Mitsou et.al.|[2604.07300](http://arxiv.org/abs/2604.07300)|null|
+|**2026-04-08**|**Exotic theta terms in 2+1d fractonic field theory**|Yuki Furukawa et.al.|[2604.07293](http://arxiv.org/abs/2604.07293)|null|
+|**2026-04-08**|**Groenewold-Moyal twists, integrable spin-chains and AdS/CFT**|Riccardo Borsato et.al.|[2604.07291](http://arxiv.org/abs/2604.07291)|null|
+|**2026-04-08**|**Loop Blow-up Inflation: An Overview**|Sukŗti Bansal et.al.|[2604.07288](http://arxiv.org/abs/2604.07288)|null|
+|**2026-04-08**|**The Roberge-Weiss transition as a probe for conformality in many-flavor QCD**|Massimo D'Elia et.al.|[2604.07284](http://arxiv.org/abs/2604.07284)|null|
 |**2026-04-08**|**Correlation function and bound state from the $K D_{s0}^*(2317)$ interaction**|Wen-Hao Jia et.al.|[2604.07261](http://arxiv.org/abs/2604.07261)|null|
 |**2026-04-08**|**Revisiting the sphaleron and axion production rates in QCD at high temperatures**|Sayak Guin et.al.|[2604.07256](http://arxiv.org/abs/2604.07256)|null|
 |**2026-04-08**|**Neural network interpolators for Wilson loops**|Julian Mayer-Steudte et.al.|[2604.07226](http://arxiv.org/abs/2604.07226)|null|
@@ -3507,6 +3532,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Spectral Difference Method with a Posteriori Limiting: III- Navier-Stokes Equations with Arbitrary High-Order Accuracy**|David A. Velasco-Romero et.al.|[2604.07339](http://arxiv.org/abs/2604.07339)|null|
+|**2026-04-08**|**The Non-Gaussian Weak-Lensing Likelihood: A Multivariate Copula Construction and Impact on Cosmological Constraints**|Veronika Oehl et.al.|[2604.07336](http://arxiv.org/abs/2604.07336)|null|
+|**2026-04-08**|**The BEF Symplectic Form: A Lagrangian Perspective**|Mohd Ali et.al.|[2604.07334](http://arxiv.org/abs/2604.07334)|null|
+|**2026-04-08**|**When waves meet rays: Seismic vibrations and cosmic showers to test gravity**|Aneta Wojnar et.al.|[2604.07333](http://arxiv.org/abs/2604.07333)|null|
+|**2026-04-08**|**Theoretical and Observational Bounds on Dynamical Chern-Simons Gravity as an Effective Field Theory**|Alexander Cassem et.al.|[2604.07332](http://arxiv.org/abs/2604.07332)|null|
+|**2026-04-08**|**Primordial magnetic fields in the light of upcoming post-EoR Lyman- $α$ and 21-cm observations**|Arko Bhaumik et.al.|[2604.07327](http://arxiv.org/abs/2604.07327)|null|
+|**2026-04-08**|**Analytic Approximations for Fermionic Preheating**|Heather E. Logan et.al.|[2604.07326](http://arxiv.org/abs/2604.07326)|null|
+|**2026-04-08**|**Multi-dimensional, time-dependent approximate NLTE unified model atmospheres with winds for hot, massive stars**|Dwaipayan Debnath et.al.|[2604.07317](http://arxiv.org/abs/2604.07317)|null|
+|**2026-04-08**|**Gravitational wave signal and noise response of an optically levitated sensor in a Fabry-Pérot cavity**|Andrew Laeuger et.al.|[2604.07302](http://arxiv.org/abs/2604.07302)|null|
+|**2026-04-08**|**Constraining magnetic monopoles and multiply charged particles with diphoton events at the LHC**|Vasiliki A. Mitsou et.al.|[2604.07300](http://arxiv.org/abs/2604.07300)|null|
 |**2026-04-08**|**Observational Tests for Distinguishing Classes of Cosmological Models**|Asta Heinesen et.al.|[2604.07244](http://arxiv.org/abs/2604.07244)|null|
 |**2026-04-08**|**Panchromatic View of the Frigid Jovian Exoplanet COCONUTS-2 b**|Matthieu Ravet et.al.|[2604.07176](http://arxiv.org/abs/2604.07176)|null|
 |**2026-04-08**|**Geometrically defined asymptotic coordinates in General Relativity**|Carla Cederbaum et.al.|[2604.07168](http://arxiv.org/abs/2604.07168)|null|
@@ -4633,6 +4668,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-08**|**Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling**|Junqi Liu et.al.|[2604.07329](http://arxiv.org/abs/2604.07329)|null|
+|**2026-04-08**|**Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability**|Akzhol Almukhametov et.al.|[2604.07292](http://arxiv.org/abs/2604.07292)|null|
+|**2026-04-08**|**GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos**|Yiqian Wu et.al.|[2604.07273](http://arxiv.org/abs/2604.07273)|null|
 |**2026-04-08**|**VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis**|Jian Yu et.al.|[2604.07210](http://arxiv.org/abs/2604.07210)|null|
 |**2026-04-08**|**Improving Semantic Uncertainty Quantification in Language Model Question-Answering via Token-Level Temperature Scaling**|Tom A. Lamb et.al.|[2604.07172](http://arxiv.org/abs/2604.07172)|null|
 |**2026-04-08**|**Amortized Filtering and Smoothing with Conditional Normalizing Flows**|Tiangang Cui et.al.|[2604.07169](http://arxiv.org/abs/2604.07169)|null|
