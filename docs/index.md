@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations**|Nouhaila Innan et.al.|[2604.15273](http://arxiv.org/abs/2604.15273)|null|
 |**2026-04-16**|**SOLIS: Physics-Informed Learning of Interpretable Neural Surrogates for Nonlinear Systems**|Murat Furkan Mansur et.al.|[2604.14879](http://arxiv.org/abs/2604.14879)|null|
 |**2026-04-16**|**Material-Agnostic Zero-Shot Thermal Inference for Metal Additive Manufacturing via a Parametric PINN Framework**|Hyeonsu Lee et.al.|[2604.14562](http://arxiv.org/abs/2604.14562)|null|
 |**2026-04-15**|**Auxiliary Finite-Difference Residual-Gradient Regularization for PINNs**|Stavros Kassinos et.al.|[2604.14472](http://arxiv.org/abs/2604.14472)|null|
@@ -504,6 +505,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Borel--Bernstein and Hirst-type Theorems for Nearest-Integer Complex Continued Fractions over Euclidean Imaginary Quadratic Fields**|Kangrae Park et.al.|[2604.15293](http://arxiv.org/abs/2604.15293)|null|
+|**2026-04-16**|**Structural interpretability in SVMs with truncated orthogonal polynomial kernels**|Víctor Soto-Larrosa et.al.|[2604.15285](http://arxiv.org/abs/2604.15285)|null|
+|**2026-04-16**|**Detecting Regime Transitions in Dynamical Systems via the Mixup Euler Characteristic Profile**|Sushovan Majhi et.al.|[2604.15262](http://arxiv.org/abs/2604.15262)|null|
+|**2026-04-16**|**A Microeconomic Finance Model with a Multi-Asset Market and a Multi-Investor Heterogeneous Groups**|Mario Cavani et.al.|[2604.15220](http://arxiv.org/abs/2604.15220)|null|
+|**2026-04-16**|**One-shot learning for the complex dynamical behaviors of weakly nonlinear forced oscillators**|Teng Ma et.al.|[2604.15181](http://arxiv.org/abs/2604.15181)|null|
 |**2026-04-16**|**A post-processed higher-order multiscale method for nondivergence-form elliptic equations**|Moritz Hauck et.al.|[2604.15144](http://arxiv.org/abs/2604.15144)|null|
 |**2026-04-16**|**Passivity-Driven Order--Disorder Transitions in Self-Aligning Active Matter**|Weizhen Tang et.al.|[2604.15105](http://arxiv.org/abs/2604.15105)|null|
 |**2026-04-16**|**Minimal Input Cardinality Disturbance Decoupling of Coupled Oscillators via Output Feedback with Application to Power Networks**|Luca Claude Gino Lebon et.al.|[2604.14977](http://arxiv.org/abs/2604.14977)|null|
@@ -1212,6 +1218,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Universal quantum state purification with energy-preserving operations**|Xing-Chen Guo et.al.|[2604.15228](http://arxiv.org/abs/2604.15228)|null|
+|**2026-04-16**|**Nonlinear Schrödinger equations with spatial white noise potential on full space for $d\le 3$**|Antoine Mouzard et.al.|[2604.15226](http://arxiv.org/abs/2604.15226)|null|
 |**2026-04-16**|**Asymptotic gauge-invariant Hybrid High-Order method for magnetic Schrödinger equations**|Joubine Aghili et.al.|[2604.15116](http://arxiv.org/abs/2604.15116)|null|
 |**2026-04-16**|**O3LS: Optimizing Lattice Surgery via Automatic Layout Searching and Loose Scheduling**|Chenghong Zhu et.al.|[2604.15099](http://arxiv.org/abs/2604.15099)|null|
 |**2026-04-16**|**SyQMA: A memory-efficient, symbolic and exact universal simulator for quantum error correction**|George Umbrarescu et.al.|[2604.15043](http://arxiv.org/abs/2604.15043)|null|
@@ -1790,6 +1798,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**New frontiers in quantum science and technology using van der Waals Josephson junctions**|Joydip Sarkar et.al.|[2604.15276](http://arxiv.org/abs/2604.15276)|null|
+|**2026-04-16**|**Echoes of Global Cosmic Strings**|Jeff A. Dror et.al.|[2604.15241](http://arxiv.org/abs/2604.15241)|null|
+|**2026-04-16**|**Simulation of quantum annealing on a semiconducting cQED device for Multiple Hypothesis Tracking (MHT) benchmark**|Quentin Schaeverbeke et.al.|[2604.15213](http://arxiv.org/abs/2604.15213)|null|
 |**2026-04-16**|**Hanbury Brown-Twiss interferometry at the $ν=2/5$ fractional quantum Hall edge**|Ryotaro Sano et.al.|[2604.15133](http://arxiv.org/abs/2604.15133)|null|
 |**2026-04-16**|**Quantum instanton approach to metastable collective spins**|Krzysztof Ptaszynski et.al.|[2604.15091](http://arxiv.org/abs/2604.15091)|null|
 |**2026-04-16**|**Heat flux deflection induced by hydrodynamic electron transport in a homogeneous Corbino disk under magnetic field**|Chuang Zhang et.al.|[2604.15062](http://arxiv.org/abs/2604.15062)|null|
@@ -2524,6 +2535,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Erdős's diameter conjecture for separated distances fails in high dimensions**|Boon Suan Ho et.al.|[2604.15305](http://arxiv.org/abs/2604.15305)|null|
+|**2026-04-16**|**Borel--Bernstein and Hirst-type Theorems for Nearest-Integer Complex Continued Fractions over Euclidean Imaginary Quadratic Fields**|Kangrae Park et.al.|[2604.15293](http://arxiv.org/abs/2604.15293)|null|
+|**2026-04-16**|**On a Probability Inequality for Order Statistics with Applications to Bootstrap, Conformal Prediction, and more**|Manit Paul et.al.|[2604.15229](http://arxiv.org/abs/2604.15229)|null|
+|**2026-04-16**|**Nonlinear Schrödinger equations with spatial white noise potential on full space for $d\le 3$**|Antoine Mouzard et.al.|[2604.15226](http://arxiv.org/abs/2604.15226)|null|
 |**2026-04-16**|**Laboratory evidence of electron pressure anisotropy driving plasmoid mediated magnetic reconnection**|A. Sladkov et.al.|[2604.15046](http://arxiv.org/abs/2604.15046)|null|
 |**2026-04-16**|**A Hypergraph Container Method on Spread SAT: Approximation and Speedup**|Zicheng Han et.al.|[2604.15031](http://arxiv.org/abs/2604.15031)|null|
 |**2026-04-16**|**On nonlinear saturation of toroidal Alfvén eigenmode due to thermal plasma nonlinearities**|Ningfei Chen et.al.|[2604.15024](http://arxiv.org/abs/2604.15024)|null|
@@ -3205,6 +3220,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving**|Fabrizio Genilotti et.al.|[2604.15291](http://arxiv.org/abs/2604.15291)|null|
+|**2026-04-16**|**Neutrino self-interactions in post-reionization era: Lyman- $α$ , 21-cm and cross-spectra**|Sourav Pal et.al.|[2604.15287](http://arxiv.org/abs/2604.15287)|null|
+|**2026-04-16**|**Taming the Aretakis instability: extremal black holes with multi-degenerate horizons**|Shreyansh Agrawal et.al.|[2604.15260](http://arxiv.org/abs/2604.15260)|null|
+|**2026-04-16**|**Charmonium radiative transitions to dileptons from lattice QCD: The case of $h_c \to η_c \ell^+\ell^-$ and $χ_{c1} \to J/ψ\,\ell^+\ell^-$**|D. Bečirević et.al.|[2604.15256](http://arxiv.org/abs/2604.15256)|null|
+|**2026-04-16**|**Kontorovich-Lebedev-Fourier Space for de Sitter Correlators**|Nathan Belrhali et.al.|[2604.15251](http://arxiv.org/abs/2604.15251)|null|
+|**2026-04-16**|**Echoes of Global Cosmic Strings**|Jeff A. Dror et.al.|[2604.15241](http://arxiv.org/abs/2604.15241)|null|
+|**2026-04-16**|**Sampling the Graviton Pole and Deprojecting the Swampland**|Guangzhuo Peng et.al.|[2604.15235](http://arxiv.org/abs/2604.15235)|null|
+|**2026-04-16**|**Nonperturbative stochastic inflation in perturbative dynamical background**|Xiao-Quan Ye et.al.|[2604.15219](http://arxiv.org/abs/2604.15219)|null|
+|**2026-04-16**|**Rare and very rare decays at the LHCb experiment**|Hanae Tilquin et.al.|[2604.15199](http://arxiv.org/abs/2604.15199)|null|
+|**2026-04-16**|**Static Tidal Perturbations of Relativistic Stars: Corrected Center Expansion and Love Numbers-I**|Emel Altas et.al.|[2604.15195](http://arxiv.org/abs/2604.15195)|null|
 |**2026-04-16**|**On the existence of toric ALE and ALF gravitational instantons**|Hari K. Kunduri et.al.|[2604.15159](http://arxiv.org/abs/2604.15159)|null|
 |**2026-04-16**|**A minimal implementation of Yang--Mills theory on a digital quantum computer**|Georg Bergner et.al.|[2604.15132](http://arxiv.org/abs/2604.15132)|null|
 |**2026-04-16**|**Symmetry Preserving Contact Interaction Approaches: An Overview of Meson and Diquark Form Factors**|L. X. Gutiérrez-Guerrero et.al.|[2604.15122](http://arxiv.org/abs/2604.15122)|null|
@@ -3966,6 +3991,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**Gravitational-wave lensing beyond rays: a disordered-system approach**|Ripalta Amoruso et.al.|[2604.15313](http://arxiv.org/abs/2604.15313)|null|
+|**2026-04-16**|**A Validated Low-to-Intermediate Mass Planetary Interior Structure Model and New Mass-Radius Relations**|Bennett Neil Skinner et.al.|[2604.15304](http://arxiv.org/abs/2604.15304)|null|
+|**2026-04-16**|**Cloudy with a chance of metals: Indications of CO $_2$ in the atmosphere of GJ 1214 b from high-resolution K-band spectroscopy**|L. Nortmann et.al.|[2604.15292](http://arxiv.org/abs/2604.15292)|null|
+|**2026-04-16**|**Neutrino self-interactions in post-reionization era: Lyman- $α$ , 21-cm and cross-spectra**|Sourav Pal et.al.|[2604.15287](http://arxiv.org/abs/2604.15287)|null|
+|**2026-04-16**|**Taming the Aretakis instability: extremal black holes with multi-degenerate horizons**|Shreyansh Agrawal et.al.|[2604.15260](http://arxiv.org/abs/2604.15260)|null|
+|**2026-04-16**|**Age bimodality in pseudo-bulges of barred spiral galaxies: Bar-driven evolution across cosmic time**|Kavin Kumar N R et.al.|[2604.15257](http://arxiv.org/abs/2604.15257)|null|
+|**2026-04-16**|**Kontorovich-Lebedev-Fourier Space for de Sitter Correlators**|Nathan Belrhali et.al.|[2604.15251](http://arxiv.org/abs/2604.15251)|null|
+|**2026-04-16**|**Echoes of Global Cosmic Strings**|Jeff A. Dror et.al.|[2604.15241](http://arxiv.org/abs/2604.15241)|null|
+|**2026-04-16**|**Boson star-black hole binaries: initial data and head-on collisions**|Zhuan Ning et.al.|[2604.15240](http://arxiv.org/abs/2604.15240)|null|
+|**2026-04-16**|**Nonperturbative stochastic inflation in perturbative dynamical background**|Xiao-Quan Ye et.al.|[2604.15219](http://arxiv.org/abs/2604.15219)|null|
 |**2026-04-16**|**Radiation doses during extreme solar energetic particle events**|S. Dalla et.al.|[2604.15160](http://arxiv.org/abs/2604.15160)|null|
 |**2026-04-16**|**On the existence of toric ALE and ALF gravitational instantons**|Hari K. Kunduri et.al.|[2604.15159](http://arxiv.org/abs/2604.15159)|null|
 |**2026-04-16**|**On measuring the Quantum Universe**|David Vasak et.al.|[2604.15130](http://arxiv.org/abs/2604.15130)|null|
@@ -5250,6 +5285,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-16**|**MADE: A Living Benchmark for Multi-Label Text Classification with Uncertainty Quantification of Medical Device Adverse Events**|Raunak Agarwal et.al.|[2604.15203](http://arxiv.org/abs/2604.15203)|null|
+|**2026-04-16**|**Quantum Metropolis-Hastings via Penalised Qubitized Walks: Spectral Filtering and Circuit Implementation**|Miguel Carrasco-Arango et.al.|[2604.15179](http://arxiv.org/abs/2604.15179)|null|
 |**2026-04-16**|**An Analysis of Regularization and Fokker-Planck Residuals in Diffusion Models for Image Generation**|Onno Niemann et.al.|[2604.15171](http://arxiv.org/abs/2604.15171)|null|
 |**2026-04-16**|**Deformation of Bacterial Cell Membranes by Action of Metal Surface under Plasmon Resonance Condition**|Taras Vasyliev et.al.|[2604.15137](http://arxiv.org/abs/2604.15137)|null|
 |**2026-04-16**|**IUQ: Interrogative Uncertainty Quantification for Long-Form Large Language Model Generation**|Haozhi Fan et.al.|[2604.15109](http://arxiv.org/abs/2604.15109)|null|
