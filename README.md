@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Resolution-Agnostic Lensless Imaging via Fourier Neural Operators**|Kerem Ekec et.al.|[2604.16295](http://arxiv.org/abs/2604.16295)|null|
 |**2026-04-17**|**Robust Multispectral Semantic Segmentation under Missing or Full Modalities via Structured Latent Projection**|Irem Ulku et.al.|[2604.15856](http://arxiv.org/abs/2604.15856)|null|
 |**2026-04-17**|**Neuromorphic Parameter Estimation for Power Converter Health Monitoring Using Spiking Neural Networks**|Hyeongmeen Baik et.al.|[2604.15714](http://arxiv.org/abs/2604.15714)|null|
 |**2026-04-17**|**PINNACLE: An Open-Source Computational Framework for Classical and Quantum PINNs**|Shimon Pisnoy et.al.|[2604.15645](http://arxiv.org/abs/2604.15645)|null|
@@ -524,6 +525,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Global dynamics and regime shifts in a resource-consumer model with facilitation and habitat loss**|Teodoro Mayayo et.al.|[2604.16291](http://arxiv.org/abs/2604.16291)|null|
+|**2026-04-17**|**Geometric regularization of autoencoders via observed stochastic dynamics**|Sean Hill et.al.|[2604.16282](http://arxiv.org/abs/2604.16282)|null|
 |**2026-04-17**|**Online optimization of nonlinear lattice using a data-driven chaos indicator**|Yongjun Li et.al.|[2604.16180](http://arxiv.org/abs/2604.16180)|null|
 |**2026-04-17**|**Gravitationally induced wave-function collapse from dynamical bifurcation**|C. A. S. Almeida et.al.|[2604.16144](http://arxiv.org/abs/2604.16144)|null|
 |**2026-04-17**|**Generic families of circle diffeomorphisms have many coexisting periodic orbits**|Ivan Shilin et.al.|[2604.16125](http://arxiv.org/abs/2604.16125)|null|
@@ -1249,6 +1252,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Fluctuating Pair Density Wave in Finite-temperature Phase Diagram of the $t$-$t^\prime$ Hubbard Model**|Qiaoyi Li et.al.|[2604.16293](http://arxiv.org/abs/2604.16293)|null|
+|**2026-04-17**|**Fast, High-Fidelity Erasure Detection of Dual-Rail Qubits with Symmetrically Coupled Readout**|Jimmy Shih-Chun Hung et.al.|[2604.16292](http://arxiv.org/abs/2604.16292)|null|
 |**2026-04-17**|**Towards Ultra-High-Rate Quantum Error Correction with Reconfigurable Atom Arrays**|Chen Zhao et.al.|[2604.16209](http://arxiv.org/abs/2604.16209)|null|
 |**2026-04-17**|**Gravitationally induced wave-function collapse from dynamical bifurcation**|C. A. S. Almeida et.al.|[2604.16144](http://arxiv.org/abs/2604.16144)|null|
 |**2026-04-17**|**Low-rank eigenvalue solvers for block-sparse matrix product states**|Markus Bachmayr et.al.|[2604.16118](http://arxiv.org/abs/2604.16118)|null|
@@ -1841,6 +1846,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Renormalised thermodynamics for Bose gases from low to critical temperatures**|Michael H. Heinrich et.al.|[2604.16290](http://arxiv.org/abs/2604.16290)|null|
+|**2026-04-17**|**Phase transitions in Doi-Onsager, Noisy Transformer, and other multimodal models**|Kyunghoo Mun et.al.|[2604.16288](http://arxiv.org/abs/2604.16288)|null|
+|**2026-04-17**|**Yttrium ion as a platform for quantum information processing**|Christopher N. Gilbreth et.al.|[2604.16274](http://arxiv.org/abs/2604.16274)|null|
+|**2026-04-17**|**Benchmarking Current-to-Voltage Amplifiers for Quantum Transport Measurements**|J. Escorza et.al.|[2604.16269](http://arxiv.org/abs/2604.16269)|null|
 |**2026-04-17**|**ChemGraph-XANES: An Agentic Framework for XANES Simulation and Analysis**|Vitor F. Grizzi et.al.|[2604.16205](http://arxiv.org/abs/2604.16205)|null|
 |**2026-04-17**|**Hopping-Mediated Charge Transport in Graphene Beyond the Ballistic Regime**|J. P. Dadario Pereira et.al.|[2604.16152](http://arxiv.org/abs/2604.16152)|null|
 |**2026-04-17**|**Gravitationally induced wave-function collapse from dynamical bifurcation**|C. A. S. Almeida et.al.|[2604.16144](http://arxiv.org/abs/2604.16144)|null|
@@ -3287,6 +3296,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Recent progress on inflation and dark energy from string theory**|Michele Cicoli et.al.|[2604.16281](http://arxiv.org/abs/2604.16281)|null|
+|**2026-04-17**|**Radiation effects on the entanglement of fermion pairs at colliders**|Rafael Aoude et.al.|[2604.16268](http://arxiv.org/abs/2604.16268)|null|
+|**2026-04-17**|**Tensor decomposition of $e^+e^-\toπ^+π^-γ$ to higher orders in the dimensional regulator**|Thomas Dave et.al.|[2604.16251](http://arxiv.org/abs/2604.16251)|null|
+|**2026-04-17**|**Performance Evaluation of Straw Tubes with Muon Beams at CERN**|Linnuo Zhang et.al.|[2604.16245](http://arxiv.org/abs/2604.16245)|null|
+|**2026-04-17**|**Latest Results from the FASER Experiment**|Shunliang Zhang et.al.|[2604.16244](http://arxiv.org/abs/2604.16244)|null|
 |**2026-04-17**|**Batalin-Vilkovisky quantization with an angular twist**|Djordje Bogdanović et.al.|[2604.16225](http://arxiv.org/abs/2604.16225)|null|
 |**2026-04-17**|**Quantum Tomography and Entanglement in Semi-Leptonic $h\to VV^*$ Decays at Higher Orders**|Dorival Gonçalves et.al.|[2604.16218](http://arxiv.org/abs/2604.16218)|null|
 |**2026-04-17**|**Preparation and detection of quasiparticles for quantum simulations of scattering**|Mattia Morgavi et.al.|[2604.16210](http://arxiv.org/abs/2604.16210)|null|
@@ -4070,6 +4084,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**The Neptunian ridge as a natural outcome of high-eccentricity tidal migration**|A. Castro-González et.al.|[2604.16300](http://arxiv.org/abs/2604.16300)|null|
+|**2026-04-17**|**TTV-Not-So-Fast: Uniqueness and Degeneracy in Perturbing Planet Parameters**|Caleb Lammers et.al.|[2604.16297](http://arxiv.org/abs/2604.16297)|null|
+|**2026-04-17**|**The hydrodynamical response of cold circumgalactic clouds to quasar radiation**|Nicolas Ledos et.al.|[2604.16294](http://arxiv.org/abs/2604.16294)|null|
+|**2026-04-17**|**Recent progress on inflation and dark energy from string theory**|Michele Cicoli et.al.|[2604.16281](http://arxiv.org/abs/2604.16281)|null|
+|**2026-04-17**|**The DESIRED strong-line calibrations: I. New empirical metallicity relations for the local and high-redshift universe**|F. F. Rosales-Ortega et.al.|[2604.16273](http://arxiv.org/abs/2604.16273)|null|
+|**2026-04-17**|**Challenge in Arrokoth's single merger to achieve the shape's principal axis configuration**|Ketan Kamat et.al.|[2604.16260](http://arxiv.org/abs/2604.16260)|null|
+|**2026-04-17**|**MF-toolkit: A High-Performance Python Library for Multifractal Analysis with Automated Crossover Detection, Source Identification and Application to Gravitational Waves Data**|Nahuel Mendez et.al.|[2604.16257](http://arxiv.org/abs/2604.16257)|null|
+|**2026-04-17**|**Prebiotic Chemistry Insights for Dragonfly II: Thermodynamic Favorability of Nucleobases, Ribose, and Fatty Acids in Selk Crater on Titan**|Ishaan Madan et.al.|[2604.16249](http://arxiv.org/abs/2604.16249)|null|
+|**2026-04-17**|**Relative frequencies of core-collapse supernovae as a function of metallicity: observations vs theoretical predictions**|Claudia P. Gutiérrez et.al.|[2604.16230](http://arxiv.org/abs/2604.16230)|null|
+|**2026-04-17**|**Post-Newtonian Constraints on Scalar-Tensor Gravity**|Alexandros Karam et.al.|[2604.16226](http://arxiv.org/abs/2604.16226)|null|
 |**2026-04-17**|**Degradation mechanisms and efficiency of heavily cratered regions on Ceres**|Reem Vitale et.al.|[2604.16223](http://arxiv.org/abs/2604.16223)|null|
 |**2026-04-17**|**A XRISM Study of Highly Ionized Iron Emission Lines from the Low-Eddington-ratio AGN in NGC 7213**|Kaito Murakami et.al.|[2604.16196](http://arxiv.org/abs/2604.16196)|null|
 |**2026-04-17**|**FastQSL 2: A Comprehensive Toolkit for Magnetic Connectivity Analysis**|Jun Chen et.al.|[2604.16195](http://arxiv.org/abs/2604.16195)|null|
@@ -4861,6 +4885,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Enhancing AI and Dynamical Subseasonal Forecasts with Probabilistic Bias Correction**|Hannah Guan et.al.|[2604.16238](http://arxiv.org/abs/2604.16238)|null|
 |**2026-04-17**|**Discharge at the Microscale: Using Optical Tweezers to Observe Muon-Induced Discharges of a Levitated Microparticle in Air**|Andrea Stoellner et.al.|[2604.16040](http://arxiv.org/abs/2604.16040)|null|
 |**2026-04-17**|**On Continuous Data Assimilation for a class of 2D and 3D stochastic non-Newtonian fluids of differential type**|Kush Kinra et.al.|[2604.15874](http://arxiv.org/abs/2604.15874)|null|
 |**2026-04-17**|**Robust Multispectral Semantic Segmentation under Missing or Full Modalities via Structured Latent Projection**|Irem Ulku et.al.|[2604.15856](http://arxiv.org/abs/2604.15856)|null|
@@ -5383,6 +5408,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-17**|**Repurposing 3D Generative Model for Autoregressive Layout Generation**|Haoran Feng et.al.|[2604.16299](http://arxiv.org/abs/2604.16299)|null|
+|**2026-04-17**|**TTV-Not-So-Fast: Uniqueness and Degeneracy in Perturbing Planet Parameters**|Caleb Lammers et.al.|[2604.16297](http://arxiv.org/abs/2604.16297)|null|
+|**2026-04-17**|**Resolution-Agnostic Lensless Imaging via Fourier Neural Operators**|Kerem Ekec et.al.|[2604.16295](http://arxiv.org/abs/2604.16295)|null|
 |**2026-04-17**|**Motion-Adapter: A Diffusion Model Adapter for Text-to-Motion Generation of Compound Actions**|Yue Jiang et.al.|[2604.16135](http://arxiv.org/abs/2604.16135)|null|
 |**2026-04-17**|**Foliated Geometry of Inverse Problems: Torsion, Curvature Duality, and Near-Associativity**|N. C. Combe et.al.|[2604.16089](http://arxiv.org/abs/2604.16089)|null|
 |**2026-04-17**|**Unveiling Stochasticity: Universal Multi-modal Probabilistic Modeling for Traffic Forecasting**|Weijiang Xiong et.al.|[2604.16084](http://arxiv.org/abs/2604.16084)|null|
