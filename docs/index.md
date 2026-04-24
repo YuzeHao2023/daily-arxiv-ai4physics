@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Directional Confusions Reveal Divergent Inductive Biases Through Rate-Distortion Geometry in Human and Machine Vision**|Leyla Roksan Caglar et.al.|[2604.21909](http://arxiv.org/abs/2604.21909)|null|
+|**2026-04-23**|**Locating acts of mechanistic reasoning in student team conversations with mechanistic machine learning**|Kaitlin Gili et.al.|[2604.21870](http://arxiv.org/abs/2604.21870)|null|
 |**2026-04-23**|**Transferable Physics-Informed Representations via Closed-Form Head Adaptation**|Jian Cheng Wong et.al.|[2604.21761](http://arxiv.org/abs/2604.21761)|null|
 |**2026-04-23**|**A Green-Integral-Constrained Neural Solver with Stochastic Physics-Informed Regularization**|Mohammad Mahdi Abedi et.al.|[2604.21411](http://arxiv.org/abs/2604.21411)|null|
 |**2026-04-23**|**Channel-Free Human Activity Recognition via Inductive-Bias-Aware Fusion Design for Heterogeneous IoT Sensor Environments**|Tatsuhito Hasegawa et.al.|[2604.21369](http://arxiv.org/abs/2604.21369)|null|
@@ -550,6 +552,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**A structure-preserving semi-implicit finite volume scheme on vertex-staggered unstructured meshes**|Elena Bernardelli et.al.|[2604.21906](http://arxiv.org/abs/2604.21906)|null|
+|**2026-04-23**|**One-dimensional non-Hausdorff manifolds and CW complexes**|Igor Vlasenko et.al.|[2604.21868](http://arxiv.org/abs/2604.21868)|null|
+|**2026-04-23**|**Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs**|Mahadev Sunil Kumar et.al.|[2604.21861](http://arxiv.org/abs/2604.21861)|null|
+|**2026-04-23**|**Meshless $h$ -adaptive Solution for non-Newtonian Natural Convection in a Differentially Heated Cavity**|Miha Rot et.al.|[2604.21858](http://arxiv.org/abs/2604.21858)|null|
+|**2026-04-23**|**Beyond Expected Information Gain: Stable Bayesian Optimal Experimental Design with Integral Probability Metrics and Plug-and-Play Extensions**|Di Wu et.al.|[2604.21849](http://arxiv.org/abs/2604.21849)|null|
 |**2026-04-23**|**On the algebra of Koopman eigenfunctions and on some of their infinities**|Zahra Monfared et.al.|[2604.21825](http://arxiv.org/abs/2604.21825)|null|
 |**2026-04-23**|**Direct Problem for Gas Diffusion in Polar Firn with Variable Coefficients**|Sophie Moufawad et.al.|[2604.21821](http://arxiv.org/abs/2604.21821)|null|
 |**2026-04-23**|**Eclipses on Zippers**|KyeongRo Kim et.al.|[2604.21792](http://arxiv.org/abs/2604.21792)|null|
@@ -1334,6 +1341,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Algorithmic Locality via Provable Convergence in Quantum Tensor Networks**|Siddhant Midha et.al.|[2604.21919](http://arxiv.org/abs/2604.21919)|null|
+|**2026-04-23**|**Efficient Classical Simulation of Heuristic Peaked Quantum Circuits**|David Kremer et.al.|[2604.21908](http://arxiv.org/abs/2604.21908)|null|
+|**2026-04-23**|**Loss-biased fault-tolerant quantum error correction**|Laura Pecorari et.al.|[2604.21876](http://arxiv.org/abs/2604.21876)|null|
+|**2026-04-23**|**High-performance cellular automaton decoders for quantum repetition and toric code**|Don Winter et.al.|[2604.21866](http://arxiv.org/abs/2604.21866)|null|
+|**2026-04-23**|**Multi-Nucleon Transfer Reactions and the Creation and the Evolution of the Compound Nucleus**|Matthew Kafker et.al.|[2604.21845](http://arxiv.org/abs/2604.21845)|null|
 |**2026-04-23**|**Deterministic generation of grid states with programmable nonlinear bosonic circuits**|Yanis Le Fur et.al.|[2604.21824](http://arxiv.org/abs/2604.21824)|null|
 |**2026-04-23**|**Unitary Time Evolution and Vacuum for a Quantum Stable Ghost**|Cédric Deffayet et.al.|[2604.21823](http://arxiv.org/abs/2604.21823)|null|
 |**2026-04-23**|**Quantum jump correlations in long-range dissipative spin systems**|Giulia Salatino et.al.|[2604.21513](http://arxiv.org/abs/2604.21513)|null|
@@ -1975,6 +1987,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Cryogenic shock exfoliation for ultrahigh mobility rhombohedral graphite nanoelectronics**|Ludwig Holleis et.al.|[2604.21912](http://arxiv.org/abs/2604.21912)|null|
+|**2026-04-23**|**Enhancing Coherence of Spin Centers in p-n Diodes via Optimization Algorithms**|Jonatan A. Posligua et.al.|[2604.21874](http://arxiv.org/abs/2604.21874)|null|
+|**2026-04-23**|**Bismuth Films on EuO(111) as a Platform for Proximity-Induced Topological States**|Subham Naskar et.al.|[2604.21862](http://arxiv.org/abs/2604.21862)|null|
+|**2026-04-23**|**OptiMat Alloys: A FAIR End-to-End Agent with Living Database for Computational Multi-Principal Alloy Exploration**|Yang Hu et.al.|[2604.21850](http://arxiv.org/abs/2604.21850)|null|
+|**2026-04-23**|**Does PCA Work for Rough Functional Data?**|Tim Kutta et.al.|[2604.21844](http://arxiv.org/abs/2604.21844)|null|
 |**2026-04-23**|**GFlowState: Visualizing the Training of Generative Flow Networks Beyond the Reward**|Florian Holeczek et.al.|[2604.21830](http://arxiv.org/abs/2604.21830)|null|
 |**2026-04-23**|**Robust continuous symmetry breaking and multiversality in the chiral Dicke model**|Nikolay Yegovtsev et.al.|[2604.21820](http://arxiv.org/abs/2604.21820)|null|
 |**2026-04-23**|**Electronic and Vibrational Properties of On-Surface Synthesized Gulf-Edged Chiral Graphene Nanoribbons**|Xuanchen Li et.al.|[2604.21796](http://arxiv.org/abs/2604.21796)|null|
@@ -2791,6 +2808,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Subsystem-Resolved Spectral Theory for Quantum Many-Body Hamiltonians**|MD Nahidul Hasan Sabit et.al.|[2604.21929](http://arxiv.org/abs/2604.21929)|null|
+|**2026-04-23**|**The Sample Complexity of Multicalibration**|Natalie Collina et.al.|[2604.21923](http://arxiv.org/abs/2604.21923)|null|
+|**2026-04-23**|**A structure-preserving semi-implicit finite volume scheme on vertex-staggered unstructured meshes**|Elena Bernardelli et.al.|[2604.21906](http://arxiv.org/abs/2604.21906)|null|
+|**2026-04-23**|**A Universal Quantum Information Preserving Photonic Switch for Scalable Quantum Networks**|Jiapeng Zhao et.al.|[2604.21902](http://arxiv.org/abs/2604.21902)|null|
+|**2026-04-23**|**Guaranteed inf-sup bounds and existence verification for semilinear elliptic problems via nonconforming finite elements**|Benedikt Gräßle et.al.|[2604.21887](http://arxiv.org/abs/2604.21887)|null|
+|**2026-04-23**|**Ion Channel Dynamics in Temperature-Dependent Weibel Instability Saturation**|Vivek Shrivastav et.al.|[2604.21875](http://arxiv.org/abs/2604.21875)|null|
 |**2026-04-23**|**Anti-Ramsey numbers for cancellative configurations in p-graphs**|Cheng Chi et.al.|[2604.21834](http://arxiv.org/abs/2604.21834)|null|
 |**2026-04-23**|**Turbulent mixing of a hydrogen jet in crossflow: direct numerical simulation and model assessment**|Yiqing Wang et.al.|[2604.21797](http://arxiv.org/abs/2604.21797)|null|
 |**2026-04-23**|**Towards hybrid kinetic/drift-kinetic simulations in 6d Vlasov codes**|M. Pelkner et.al.|[2604.21708](http://arxiv.org/abs/2604.21708)|null|
@@ -3546,6 +3569,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Heavy Quark Transport is Non-Gaussian Beyond Leading Log**|Jean F. Du Plessis et.al.|[2604.21895](http://arxiv.org/abs/2604.21895)|null|
+|**2026-04-23**|**The Dyson Minds 2025 Workshop: SETI around Black Holes**|Olivia Curtis et.al.|[2604.21886](http://arxiv.org/abs/2604.21886)|null|
+|**2026-04-23**|**Quark and gluon production in the presence of the time-varying chiral magnetic current**|Kirill Tuchin et.al.|[2604.21872](http://arxiv.org/abs/2604.21872)|null|
+|**2026-04-23**|**Analytical and Machine Learning Methods for Model Discernment at CE $ν$ NS Experiments**|Iain A. Bisset et.al.|[2604.21869](http://arxiv.org/abs/2604.21869)|null|
+|**2026-04-23**|**Odd Physics Off the Diagonal: Constraining CP-violating SMEFT with Quantum Tomography**|Avalon Roberts et.al.|[2604.21857](http://arxiv.org/abs/2604.21857)|null|
+|**2026-04-23**|**Orbital angular momentum radiation and polarization of relativistic electrons in magnetic fields**|Ziqiang Huang et.al.|[2604.21856](http://arxiv.org/abs/2604.21856)|null|
+|**2026-04-23**|**Broad-band High-Energy Resolution Hard X-ray Spectroscopy using Transition Edge Sensors at SPring-8**|Shinya Yamada et.al.|[2604.21846](http://arxiv.org/abs/2604.21846)|null|
 |**2026-04-23**|**True Leptonium ( $l^+ l^-$ ) Production in UPC Triphoton Interaction**|Qi-Ming Feng et.al.|[2604.21838](http://arxiv.org/abs/2604.21838)|null|
 |**2026-04-23**|**High-energy photon hologram of a photon gas**|P. O. Kazinski et.al.|[2604.21835](http://arxiv.org/abs/2604.21835)|null|
 |**2026-04-23**|**Quantum mechanics with a ghost: Counterexamples to spectral denseness**|Cédric Deffayet et.al.|[2604.21826](http://arxiv.org/abs/2604.21826)|null|
@@ -4401,6 +4431,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**First measurement of wind line formation regions in an early O-type star**|D. Pauli et.al.|[2604.21920](http://arxiv.org/abs/2604.21920)|null|
+|**2026-04-23**|**The impact of hydrogen atom tunneling on aromatic chemistry in TMC-1**|Reace H. J. Willis et.al.|[2604.21892](http://arxiv.org/abs/2604.21892)|null|
+|**2026-04-23**|**The Dyson Minds 2025 Workshop: SETI around Black Holes**|Olivia Curtis et.al.|[2604.21886](http://arxiv.org/abs/2604.21886)|null|
+|**2026-04-23**|**Testing solitonic boson star interpretations of Sagittarius A* with near-infrared flare astrometry**|Xiangyu Wang et.al.|[2604.21883](http://arxiv.org/abs/2604.21883)|null|
+|**2026-04-23**|**Ion Channel Dynamics in Temperature-Dependent Weibel Instability Saturation**|Vivek Shrivastav et.al.|[2604.21875](http://arxiv.org/abs/2604.21875)|null|
+|**2026-04-23**|**Mitigating Systematic Errors in Parameter Estimation of Binary Black Hole Mergers in O1-O3 LIGO-Virgo Data**|Sumit Kumar et.al.|[2604.21859](http://arxiv.org/abs/2604.21859)|null|
+|**2026-04-23**|**Toward Inferring the Surface Fluxes of Biosignature Gases on Rocky Exoplanets from Telescope Spectra**|Nicholas F. Wogan et.al.|[2604.21848](http://arxiv.org/abs/2604.21848)|null|
+|**2026-04-23**|**Broad-band High-Energy Resolution Hard X-ray Spectroscopy using Transition Edge Sensors at SPring-8**|Shinya Yamada et.al.|[2604.21846](http://arxiv.org/abs/2604.21846)|null|
 |**2026-04-23**|**Unitary Time Evolution and Vacuum for a Quantum Stable Ghost**|Cédric Deffayet et.al.|[2604.21823](http://arxiv.org/abs/2604.21823)|null|
 |**2026-04-23**|**An RXTE Search for the Sterile Neutrino Decay in Galaxy Clusters**|Mark J. Henriksen et.al.|[2604.21817](http://arxiv.org/abs/2604.21817)|null|
 |**2026-04-23**|**MINDS: Intertwined evolution of dust and gas in large planet-forming disks. A diversity driven by halted pebble drift?**|Benoît Tabone et.al.|[2604.21803](http://arxiv.org/abs/2604.21803)|null|
@@ -5270,6 +5308,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Toward Inferring the Surface Fluxes of Biosignature Gases on Rocky Exoplanets from Telescope Spectra**|Nicholas F. Wogan et.al.|[2604.21848](http://arxiv.org/abs/2604.21848)|null|
 |**2026-04-23**|**SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery**|Safouane El Ghazouali et.al.|[2604.21801](http://arxiv.org/abs/2604.21801)|null|
 |**2026-04-23**|**Exploring climate change effects on concurrent floods and concurrent droughts via statistical deep learning**|C. J. R. Murphy-Barltrop et.al.|[2604.21647](http://arxiv.org/abs/2604.21647)|null|
 |**2026-04-23**|**UHR-DETR: Efficient End-to-End Small Object Detection for Ultra-High-Resolution Remote Sensing Imagery**|Jingfang Li et.al.|[2604.21435](http://arxiv.org/abs/2604.21435)|null|
@@ -5835,6 +5874,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**|Songen Gu et.al.|[2604.21914](http://arxiv.org/abs/2604.21914)|null|
+|**2026-04-23**|**Low-Rank Adaptation Redux for Large Models**|Bingcong Li et.al.|[2604.21905](http://arxiv.org/abs/2604.21905)|null|
+|**2026-04-23**|**A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**|Max Defez et.al.|[2604.21903](http://arxiv.org/abs/2604.21903)|null|
+|**2026-04-23**|**Nonparametric f-Modeling for Empirical Bayes Inference with Unequal and Unknown Variances**|Zhigen Zhao et.al.|[2604.21865](http://arxiv.org/abs/2604.21865)|null|
+|**2026-04-23**|**OptiMat Alloys: A FAIR End-to-End Agent with Living Database for Computational Multi-Principal Alloy Exploration**|Yang Hu et.al.|[2604.21850](http://arxiv.org/abs/2604.21850)|null|
+|**2026-04-23**|**Toward Inferring the Surface Fluxes of Biosignature Gases on Rocky Exoplanets from Telescope Spectra**|Nicholas F. Wogan et.al.|[2604.21848](http://arxiv.org/abs/2604.21848)|null|
+|**2026-04-23**|**Causality-Encoded Diffusion Models for Interventional Sampling and Edge Inference**|Li Chen et.al.|[2604.21843](http://arxiv.org/abs/2604.21843)|null|
 |**2026-04-23**|**Quotient-Space Diffusion Models**|Yixian Xu et.al.|[2604.21809](http://arxiv.org/abs/2604.21809)|null|
 |**2026-04-23**|**Bayesian Sparsity Modeling of Shared Neural Response in Functional Magnetic Resonance Imaging Data**|Spencer Wadsworth et.al.|[2604.21676](http://arxiv.org/abs/2604.21676)|null|
 |**2026-04-23**|**DCMorph: Face Morphing via Dual-Stream Cross-Attention Diffusion**|Tahar Chettaoui et.al.|[2604.21627](http://arxiv.org/abs/2604.21627)|null|
